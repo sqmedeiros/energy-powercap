@@ -102,11 +102,11 @@ def generateEntryline(entries):
 
 def generateMakefileText(mydir, make_config, dataFormatada):
   lang = make_config.lang
-  cpu = make_config.cpu
+  cores = make_config.cores
   machine = make_config.machine
   power_limit = make_config.power_limit
 
-  texto = f"export PROBLEM = {mydir}-{lang}-{cpu}-{power_limit}W-{machine}-{dataFormatada}\n"
+  texto = f"export PROBLEM = {mydir}-{lang}-{cores}-{power_limit}W-{machine}-{dataFormatada}\n"
 
   texto  = texto + "export CPPFLAGS = -DONLINE_JUDGE -std=c++17 -O2" + "\n"
   
@@ -117,6 +117,21 @@ def generateMakefileText(mydir, make_config, dataFormatada):
   texto = texto + entryline
   texto = texto + f"all:\n\t+$(MAKE) -C {expDir}\n"
   texto = texto + f"clean:\n\trm {expDir}/*.exe  {expDir}/*.class\n"
+  return texto
+
+
+def quote_value (v):
+    if not v.isnumeric():
+      return f'"{v}"'
+    return v
+
+
+def generateConfigText(mydir, make_config):
+  texto = ""
+  for key, value in vars(make_config).items():
+    texto += f"{key} = {quote_value(value)}\n"
+
+  print(f"generateConfigText: {texto}")
   return texto
 
 
@@ -147,6 +162,13 @@ def createMakefile(mydir, make_config, dataFormatada):
     f.truncate() # set the file size to the current size
 
 
+def createConfigFile(mydir, make_config):
+  texto = generateConfigText(mydir, make_config)
+  with open("config.py","w") as f:
+    f.write(texto) # write the data back
+    f.truncate() # set the file size to the current size
+
+
 def generateexperimentdir(mydir, make_config):
   os.system('rm -rf ' + mydir + '/' + expDir)
   os.system('mkdir ' + mydir + '/' + expDir)
@@ -171,7 +193,7 @@ def copyMakefilesubdir(mydir, make_config):
 def config_parser(parser):
   parser.add_argument('lang', choices=['c++'])
   parser.add_argument('machine', choices=['elite'])
-  parser.add_argument('cpu', choices=['sing', 'mult'])
+  parser.add_argument('cores', choices=['sing', 'mult'])
   parser.add_argument('power_limit', choices=['0', '2', '10', '15', '25'])
 
 
@@ -193,6 +215,7 @@ for mydir in dirs:
   os.chdir(mydir)
   createFazTudo(mydir,make_config)
   createMakefile(mydir,make_config,dataFormatada)
+  createConfigFile(mydir,make_config)
   os.chdir(prevDir)
   generateexperimentdir(mydir, make_config)
   copyMakefilesubdir(mydir, make_config)
