@@ -1,12 +1,12 @@
 Copy myscript to /etc/init.d/
-Change directory in myscript (~/rouxinol)
+Change directory in myscript (~/energy-powercap)
 Update init jobs: sudo update-rc.d myscript defaults
-Create blank ToProcess.txt in ~/rouxinol
-Create Experiments.txt in ~/rouxinol with experiments you want to run
+Create blank ToProcess.txt in ~/energy-powercap
+Create Experiments.txt in ~/energy-powercap with experiments you want to run
 
 (Example of Experiments.txt)
-control-01 think -O2
-training-02 elite -O0 -perf
+c++ elite mult 0
+java mymachine sing 15
 
 
 restart pc
