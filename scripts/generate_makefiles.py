@@ -41,8 +41,6 @@ dirs = [
   "2185-Prime_Multiples"
 ]
 
-dirs = ["1071-Number_Spiral"]
-
 faztudo_pre = (
 "#!/bin/bash\n"
 )
@@ -192,7 +190,7 @@ def copyMakefilesubdir(mydir, make_config):
 
 def config_parser(parser):
   parser.add_argument('lang', choices=['c++'])
-  parser.add_argument('machine', choices=['elite'])
+  parser.add_argument('machine', choices=['elite','iotlab1'])
   parser.add_argument('cores', choices=['sing', 'mult'])
   parser.add_argument('power_limit', choices=['0', '2', '10', '15', '25'])
 

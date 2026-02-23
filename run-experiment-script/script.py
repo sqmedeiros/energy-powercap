@@ -37,8 +37,6 @@ dirs = [
   "2166-Prefix_Sum_Queries"
 ]
 
-dirs = ["1071-Number_Spiral"]
-
 experiments = "Experiments.txt"
 toProcess = "ToProcess.txt"
 reiniciaUnicaVez =  "Reiniciou.txt"

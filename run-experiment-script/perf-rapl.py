@@ -9,7 +9,7 @@ import config
 
 csv.field_size_limit(sys.maxsize)
 
-NRUNS = 1
+NRUNS = 10
 perf_flag_prefix = "power/energy-"
 
 
