@@ -199,7 +199,7 @@ def salvaresumo(arquivo,vnome, vmconsumo, vdconsumo, vmtempo,vdtempo, vmtsoma, v
     return ds, d
 
 def checardiferencamaxima(difft, df, j):
-    if (difft.max() > 10*1000*1000):
+    if (difft.max() > 10):
         print("\n\n\nDifference between times seem too large in " + df.iloc[j,0] + ". Max = " + str(difft.max()) + ". Number of occurences: " + str(sum(i > 10 for i in difft)) + "\n\n\n\n")
         file.write("\n\n\nDifference between times seem too large in " + df.iloc[j,0] + ". Max = " + str(difft.max()) + ". Number of occurences: " + str(sum(i > 10 for i in difft)) + "\n\n\n\n")
 
@@ -245,9 +245,8 @@ def calculamedias(df, ncolunas, nlinhas, nexec, flags, file):
         
     #'codigo','psys','pkg','cores','gpu', 'ram', 'duration_time','user_time','system_time','perf_time','lang','machine','ncores','power_limit'
     
-    while j < nlinhas:
+    while j < nlinhas-nexec:
         vnome.append(df.iloc[j,0])
-      
         
         #psys = np.array(df.iloc[j:j+nexec,1]).astype(float)
                 
@@ -263,18 +262,20 @@ def calculamedias(df, ncolunas, nlinhas, nexec, flags, file):
         
         pkg = pkg + ram
             
-        t = np.array(df.iloc[j:j+nexec,6]).astype(float)
+        t = np.array(df.iloc[j:j+nexec,6]).astype(float)/10**6
                 
         tsomausersys = np.zeros(nexec)
     
-        tuser = np.array(df.iloc[j:j+nexec,7]).astype(float)
-        tsys = np.array(df.iloc[j:j+nexec,8]).astype(float)
+        tuser = np.array(df.iloc[j:j+nexec,7]).astype(float)/10**6
+        tsys = np.array(df.iloc[j:j+nexec,8]).astype(float)/10**6
         tsomausersys = tuser + tsys
         difft = np.array(t - tsomausersys)
         checardiferencamaxima(difft, df, j)
+
                 
         pkg, t, tsomausersys = removeextremos(pkg,t,tsomausersys,nexec)
 
+        
         checknegative(pkg, t)        
         
         mediaconsumo = pkg.mean()
@@ -283,7 +284,7 @@ def calculamedias(df, ncolunas, nlinhas, nexec, flags, file):
         desviotempo = t.std()
         mediatemposoma = tsomausersys.mean()
         desviotemposoma = tsomausersys.std()
-        mediaconsumo = removeBaseline(mediaconsumo, mediatempo)
+        #mediaconsumo = removeBaseline(mediaconsumo, mediatempo)
         vmconsumo[cont] = mediaconsumo
         vdconsumo[cont] = desvioconsumo
         vmtempo[cont] = mediatempo

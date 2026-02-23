@@ -1,1 +1,32 @@
 processando 1071-Number_Spiral-c++-mult-0W-elite-05-02-2026-12-44.csv
+Gordura (desvio do erro) da reta calculada:0.026928791314792387
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7733386302081936, pvalue=4.063638566962039e-11)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-mult-0W-elite-05-02-2026-12-44.csv
+Coeficiente R2: 0.9974858419536027
+Coeficiente Spearman: 0.822488183005443
+	interesse low: 2806108.exe . Abaixo
+	interesse low: 618530.exe  . Abaixo
+	interesse low: 6984030.exe . Abaixo
+	interesse low: 8026156.exe . Abaixo
+	interesse medium: 1873684.exe . Abaixo
+	interesse medium: 2633688.exe . Abaixo
+	interesse medium: 3943646.exe . Abaixo
+	interesse high: 1449665.exe . Abaixo
+	interesse high: 5013886.exe . Acima
+	interesse high: 5585521.exe . Acima
+
+slopes:
+0.01180	
+linear coefficients:
+0.00000	
+tempos medios das solucoes:
+98.11378	
+consumo medio:
+1.15905	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99749	
+0.82249	
+0.02693	

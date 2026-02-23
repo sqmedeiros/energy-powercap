@@ -1,0 +1,93 @@
+processando 1071-Number_Spiral-c++-mult-0W-elite-05-02-2026-12-44.csv
+Gordura (desvio do erro) da reta calculada:0.026928791314792387
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7733386302081936, pvalue=4.063638566962039e-11)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-mult-0W-elite-05-02-2026-12-44.csv
+Coeficiente R2: 0.9974858419536027
+Coeficiente Spearman: 0.822488183005443
+	interesse low: 2806108.exe . Abaixo
+	interesse low: 618530.exe  . Abaixo
+	interesse low: 6984030.exe . Abaixo
+	interesse low: 8026156.exe . Abaixo
+	interesse medium: 1873684.exe . Abaixo
+	interesse medium: 2633688.exe . Abaixo
+	interesse medium: 3943646.exe . Abaixo
+	interesse high: 1449665.exe . Abaixo
+	interesse high: 5013886.exe . Acima
+	interesse high: 5585521.exe . Acima
+processando 1071-Number_Spiral-c++-mult-2W-elite-06-02-2026-20-16.csv
+Gordura (desvio do erro) da reta calculada:0.004148511426483248
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8514555255881657, pvalue=1.3426881974937166e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-mult-2W-elite-06-02-2026-20-16.csv
+Coeficiente R2: 0.9999029717990482
+Coeficiente Spearman: 0.9975872083911368
+	interesse low: 618530.exe  . Abaixo
+	interesse low: 6801844.exe . Abaixo
+	interesse low: 7693072.exe . Abaixo
+	interesse low: 8026156.exe . Abaixo
+processando 1071-Number_Spiral-c++-mult-10W-elite-06-02-2026-12-09.csv
+Gordura (desvio do erro) da reta calculada:0.00682394802723875
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9634769590856902, pvalue=0.007171502996489562)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-mult-10W-elite-06-02-2026-12-09.csv
+Coeficiente R2: 0.9998628858313967
+Coeficiente Spearman: 0.9056292147918884
+	interesse low: 1417617.exe . Abaixo
+	interesse low: 1751629.exe . Abaixo
+	interesse low: 2633688.exe . Abaixo
+	interesse low: 299057.exe  . Abaixo
+	interesse low: 3135280.exe . Abaixo
+	interesse low: 3910898.exe . Abaixo
+	interesse low: 3943646.exe . Abaixo
+processando 1071-Number_Spiral-c++-mult-15W-elite-06-02-2026-04-22.csv
+Gordura (desvio do erro) da reta calculada:0.026852472790337496
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6569553804715804, pvalue=5.966375805159603e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-mult-15W-elite-06-02-2026-04-22.csv
+Coeficiente R2: 0.9975820061218404
+Coeficiente Spearman: 0.8799513444852148
+	interesse low: 2806108.exe . Abaixo
+	interesse low: 8026156.exe . Abaixo
+	interesse medium: 1873684.exe . Abaixo
+	interesse medium: 2633688.exe . Abaixo
+	interesse medium: 3943646.exe . Abaixo
+	interesse medium: 618530.exe  . Abaixo
+	interesse high: 1449665.exe . Abaixo
+	interesse high: 5013886.exe . Acima
+	interesse high: 5585521.exe . Acima
+	interesse high: 6984030.exe . Abaixo
+	interesse high: 7693072.exe . Abaixo
+processando 1071-Number_Spiral-c++-mult-25W-elite-05-02-2026-20-32.csv
+Gordura (desvio do erro) da reta calculada:0.027842586491849373
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.752579311016208, pvalue=1.0959872100047822e-11)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-mult-25W-elite-05-02-2026-20-32.csv
+Coeficiente R2: 0.9974022491620169
+Coeficiente Spearman: 0.7883160712817543
+	interesse low: 2806108.exe . Abaixo
+	interesse low: 618530.exe  . Abaixo
+	interesse low: 7693072.exe . Abaixo
+	interesse low: 8026156.exe . Abaixo
+	interesse medium: 1449665.exe . Abaixo
+	interesse medium: 3943646.exe . Abaixo
+	interesse medium: 6984030.exe . Abaixo
+	interesse high: 1873684.exe . Abaixo
+	interesse high: 2633688.exe . Abaixo
+	interesse high: 5013886.exe . Acima
+	interesse high: 5585521.exe . Acima
+
+slopes:
+0.01180	0.00248	0.01041	0.01204	0.01203	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+98.11378	356.79275	105.42153	98.14095	98.07708	
+consumo medio:
+1.15905	0.88397	1.09631	1.18261	1.18120	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99749	0.99990	0.99986	0.99758	0.99740	
+0.82249	0.99759	0.90563	0.87995	0.78832	
+0.02693	0.00415	0.00682	0.02685	0.02784	
