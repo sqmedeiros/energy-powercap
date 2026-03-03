@@ -41,8 +41,6 @@ dirs = [
   "2185-Prime_Multiples"
 ]
 
-dirs = ["1071-Number_Spiral"]
-
 faztudo_pre = (
 "#!/bin/bash\n"
 )

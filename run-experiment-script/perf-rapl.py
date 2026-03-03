@@ -9,7 +9,7 @@ import config
 
 csv.field_size_limit(sys.maxsize)
 
-NRUNS = 1
+NRUNS = 10
 perf_flag_prefix = "power/energy-"
 
 
@@ -17,7 +17,7 @@ perf_flag_prefix = "power/energy-"
 
 # perf power events
 power_events = {}
-list_events = ['psys', 'pkg', 'cores', 'ram', 'gpu']
+list_events = ['psys', 'pkg', 'cores', 'gpu', 'ram']
 list_times = ['duration_time', 'user_time', 'system_time']
 
 
