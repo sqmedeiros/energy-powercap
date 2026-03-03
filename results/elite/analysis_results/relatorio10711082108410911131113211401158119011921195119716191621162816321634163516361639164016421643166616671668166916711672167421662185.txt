@@ -1,0 +1,370 @@
+processando 1071-Number_Spiral-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.027984937951522845
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7878646209142789, pvalue=1.0675320548124726e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1071-Number_Spiral-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9974119780154693
+Coeficiente Spearman: 0.7872853008512376
+	interesse low: 3943646.exe . Abaixo
+	interesse low: 618530.exe  . Abaixo
+	interesse low: 6984030.exe . Abaixo
+	interesse low: 7693072.exe . Abaixo
+	interesse medium: 2633688.exe . Abaixo
+	interesse medium: 2806108.exe . Abaixo
+	interesse medium: 5013886.exe . Acima
+	interesse high: 1449665.exe . Abaixo
+	interesse high: 1873684.exe . Abaixo
+	interesse high: 5585521.exe . Acima
+	interesse high: 8026156.exe . Abaixo
+processando 1082-Sum_of_Divisors-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.06840273339306405
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8618105628365883, pvalue=3.322680907589655e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1082-Sum_of_Divisors-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9967707929397286
+Coeficiente Spearman: 0.9924931593053097
+	interesse low: 8349555.exe . Abaixo
+	interesse high: 120780.exe  . Acima
+	interesse high: 396083.exe  . Acima
+	interesse high: 3965275.exe . Abaixo
+	interesse high: 5081047.exe . Acima
+	interesse high: 6578108.exe . Abaixo
+processando 1084-Apartments-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.030207888890135672
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8276813727990957, pvalue=1.9293020459986964e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1084-Apartments-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9864333288696394
+Coeficiente Spearman: 0.9825448030668802
+	interesse low: 5272843.exe . Abaixo
+	interesse medium: 1342186.exe . Abaixo
+	interesse medium: 6888530.exe . Abaixo
+	interesse high: 3893727.exe . Abaixo
+	interesse high: 719640.exe  . Abaixo
+	interesse high: 772253.exe  . Abaixo
+processando 1091-Concert_Tickets-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.06568238480808516
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8978399378722117, pvalue=1.1205629874604827e-06)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9957046396019472
+Coeficiente Spearman: 0.9948543468647223
+	interesse low: 1963979.exe . Acima
+	interesse low: 3509617.exe . Acima
+	interesse low: 3588461.exe . Abaixo
+	interesse low: 3836836.exe . Acima
+	interesse medium: 4547977.exe . Acima
+	interesse medium: 700618.exe  . Acima
+	interesse high: 8459541.exe . Acima
+processando 1131-Tree_Diameter-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.07694922157315487
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9070431655198574, pvalue=3.0782554778265597e-06)
+		Não podemos afirmar que segue uma distribuição normal
+1131-Tree_Diameter-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9843826805670222
+Coeficiente Spearman: 0.9943113970259843
+	interesse low: 5828765.exe . Acima
+	interesse low: 7373244.exe . Acima
+	interesse low: 8461317.exe . Acima
+	interesse high: 4425410.exe . Abaixo
+	interesse high: 6412422.exe . Abaixo
+processando 1132-Tree_Distances_I-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.08157340377845225
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9483814802451298, pvalue=0.000650013642778648)
+		Não podemos afirmar que segue uma distribuição normal
+1132-Tree_Distances_I-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.989075003216191
+Coeficiente Spearman: 0.9911640369201709
+	interesse low: 4232821.exe . Acima
+	interesse low: 6842210.exe . Acima
+	interesse high: 5822321.exe . Abaixo
+	interesse high: 6370353.exe . Acima
+processando 1140-Projects-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.20211169915039456
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.954318238504655, pvalue=0.0016151391935441003)
+		Não podemos afirmar que segue uma distribuição normal
+1140-Projects-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9812229577714527
+Coeficiente Spearman: 0.9951845040083915
+	interesse high: 3038559.exe . Acima
+processando 1158-Bookshop-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.08587430544498935
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8754975998772347, pvalue=1.1759469170941359e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1158-Bookshop-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9970436667181375
+Coeficiente Spearman: 0.9965946492533582
+	interesse low: 5977756.exe . Abaixo
+	interesse medium: 8602618.exe . Abaixo
+	interesse high: 2881871.exe . Abaixo
+	interesse high: 3384818.exe . Abaixo
+processando 1190-Subarray_Sum_Queries-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.0817289199098003
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8832361990323626, pvalue=2.4940454080238357e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1190-Subarray_Sum_Queries-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9967819412196819
+Coeficiente Spearman: 0.9957845405552542
+	interesse low: 3011182.exe . Abaixo
+	interesse low: 5183347.exe . Acima
+	interesse high: 1856669.exe . Abaixo
+	interesse high: 2687380.exe . Abaixo
+	interesse high: 4281961.exe . Abaixo
+	interesse high: 6231092.exe . Acima
+	interesse high: 696848.exe  . Acima
+	interesse high: 7298136.exe . Abaixo
+processando 1192-Counting_Rooms-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.007737813007268608
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9877889714458785, pvalue=0.4927799834800799)
+		Segue uma distribuição normal com confiança de 95%
+1192-Counting_Rooms-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9984741054462917
+Coeficiente Spearman: 0.9927685016393715
+	interesse low: 4842228.exe . Acima
+	interesse medium: 293813.exe  . Acima
+	interesse high: 2395064.exe . Abaixo
+processando 1195-Flight_Discount-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.04515946213910164
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.921797095546516, pvalue=1.7552162179637518e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9866614605793571
+Coeficiente Spearman: 0.9962195089845249
+	interesse high: 6848378.exe . Abaixo
+	interesse high: 7576958.exe . Abaixo
+processando 1197-Cycle_Finding-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.15637421163682538
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6695674715791227, pvalue=1.1133275760466015e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.989284916481936
+Coeficiente Spearman: 0.9959675484371426
+	interesse low: 5559815.exe . Acima
+	interesse medium: 6337865.exe . Acima
+	interesse high: 2636614.exe . Abaixo
+	interesse high: 3731597.exe . Abaixo
+	interesse high: 5878214.exe . Abaixo
+processando 1619-Restaurant_Customers-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.10389162092664914
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8748282525944352, pvalue=1.103367628413783e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1619-Restaurant_Customers-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9724153367157397
+Coeficiente Spearman: 0.9696629657024901
+	interesse low: 1327269.exe . Abaixo
+	interesse low: 837478.exe  . Acima
+	interesse medium: 5568977.exe . Abaixo
+	interesse high: 1417709.exe . Abaixo
+	interesse high: 1526865.exe . Abaixo
+	interesse high: 556487.exe  . Acima
+processando 1621-Distinct_Numbers-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.004274554458154202
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9921488527381074, pvalue=0.8319027384469684)
+		Segue uma distribuição normal com confiança de 95%
+1621-Distinct_Numbers-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9975074181101922
+Coeficiente Spearman: 0.9582402381933446
+	interesse low: 1344769.exe . Acima
+	interesse low: 2213898.exe . Abaixo
+	interesse low: 3234095.exe . Abaixo
+	interesse low: 5811632.exe . Acima
+	interesse low: 5817743.exe . Acima
+	interesse high: 3523845.exe . Abaixo
+processando 1628-Meet_in_the_Middle-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.07503529550458399
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8539928958384452, pvalue=1.6702743840068045e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9896981817361902
+Coeficiente Spearman: 0.9955115242394905
+	interesse high: 4625512.exe . Acima
+processando 1632-Movie_Festival_II-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.05124101782086553
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8343164204661292, pvalue=3.2561980695648433e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9952299437490668
+Coeficiente Spearman: 0.9890326268509297
+	interesse high: 1194834.exe . Abaixo
+	interesse high: 4327744.exe . Acima
+	interesse high: 7856160.exe . Abaixo
+processando 1634-Minimizing_Coins-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.16503538377691052
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9220608109069071, pvalue=1.8134176902581877e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9854105520331556
+Coeficiente Spearman: 0.9520663439828428
+	interesse low: 2970400.exe . Acima
+	interesse high: 3385679.exe . Acima
+	interesse high: 6113121.exe . Acima
+processando 1635-Coin_Combinations_I-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.453173679304748
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8440341458867322, pvalue=7.183609412916337e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.8227904140544733
+Coeficiente Spearman: 0.7877995067618986
+	interesse low: 4833711.exe . Acima
+	interesse high: 1369343.exe . Acima
+	interesse high: 2117851.exe . Acima
+	interesse high: 2358242.exe . Acima
+	interesse high: 2597067.exe . Acima
+	interesse high: 3094511.exe . Acima
+	interesse high: 3891304.exe . Acima
+	interesse high: 7112423.exe . Acima
+	interesse high: 8030039.exe . Acima
+processando 1636-Coin_Combinations_II-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.12328091148426554
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8026839030250995, pvalue=2.9958667490515415e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1636-Coin_Combinations_II-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9952058880986816
+Coeficiente Spearman: 0.9897508521667127
+	interesse low: 4879484.exe . Acima
+	interesse high: 2233044.exe . Acima
+	interesse high: 5069904.exe . Abaixo
+	interesse high: 5515108.exe . Abaixo
+	interesse high: 5605416.exe . Abaixo
+processando 1639-Edit_Distance-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.08053211130885758
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8692204430539304, pvalue=6.521345448385646e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9973348568248772
+Coeficiente Spearman: 0.9937592637541309
+	interesse medium: 2075190.exe . Abaixo
+	interesse medium: 6768052.exe . Acima
+	interesse high: 1959638.exe . Acima
+	interesse high: 1962386.exe . Acima
+	interesse high: 5145459.exe . Acima
+processando 1640-Sum_of_Two_Values-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.017202961669925472
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.627773011883062, pvalue=1.4962701885606832e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1640-Sum_of_Two_Values-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9880209977305587
+Coeficiente Spearman: 0.9960173746516557
+	interesse high: 2230190.exe . Abaixo
+	interesse high: 5674331.exe . Abaixo
+	interesse high: 7989414.exe . Abaixo
+processando 1642-Sum_of_Four_Values-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.07802407487633439
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5528798663506913, pvalue=5.957730043790366e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1642-Sum_of_Four_Values-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9943327786676099
+Coeficiente Spearman: 0.995772438276561
+	interesse medium: 1554849.exe . Abaixo
+	interesse high: 165572.exe  . Abaixo
+	interesse high: 3408564.exe . Abaixo
+processando 1643-Maximum_Subarray_Sum-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.012588601718488109
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5484223592008935, pvalue=4.980919037786324e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9936038968446828
+Coeficiente Spearman: 0.9389556667045718
+	interesse high: 3144096.exe . Abaixo
+	interesse high: 3868191.exe . Abaixo
+processando 1666-Building_Roads-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.08331403490900563
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.4940225056388703, pvalue=6.176548132295828e-17)
+		Não podemos afirmar que segue uma distribuição normal
+1666-Building_Roads-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9824962987666489
+Coeficiente Spearman: 0.9941312375082932
+	interesse high: 1318039.exe . Abaixo
+processando 1667-Message_Route-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.05707341758759134
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6009794632284324, pvalue=4.493023455278649e-15)
+		Não podemos afirmar que segue uma distribuição normal
+1667-Message_Route-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.986005320633346
+Coeficiente Spearman: 0.9918928496596254
+	interesse high: 3086125.exe . Abaixo
+	interesse high: 863410.exe  . Abaixo
+processando 1668-Building_Teams-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.10053417776031816
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5383351988897774, pvalue=3.3370935912987323e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1668-Building_Teams-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9828633470221624
+Coeficiente Spearman: 0.9916678425843874
+	interesse high: 1982367.exe . Abaixo
+	interesse high: 2322404.exe . Abaixo
+processando 1669-Round_Trip-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.04269674120327385
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6943611919806614, pvalue=3.992823678832433e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9916336855113748
+Coeficiente Spearman: 0.9881686504049149
+	interesse low: 4381451.exe . Abaixo
+	interesse high: 1969973.exe . Abaixo
+	interesse high: 7534269.exe . Abaixo
+processando 1671-Shortest_Routes_I-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.04075786259445179
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8138871908951874, pvalue=6.764928067369954e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1671-Shortest_Routes_I-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9981249605138102
+Coeficiente Spearman: 0.9851263998911338
+	interesse low: 3334452.exe . Abaixo
+	interesse medium: 3683001.exe . Abaixo
+processando 1672-Shortest_Routes_II-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.10270859880500274
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9669032335549017, pvalue=0.012872747564644524)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9837773707722978
+Coeficiente Spearman: 0.9851992093215906
+	interesse low: 4947084.exe . Acima
+	interesse low: 6714442.exe . Acima
+	interesse high: 8319654.exe . Abaixo
+processando 1674-Subordinates-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.042179483313552854
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5247044150774545, pvalue=1.9619838916007512e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1674-Subordinates-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.995243666924996
+Coeficiente Spearman: 0.9936147908351634
+	interesse high: 2395206.exe . Abaixo
+	interesse high: 5125995.exe . Abaixo
+	interesse high: 6090789.exe . Abaixo
+	interesse high: 6666782.exe . Abaixo
+processando 2166-Prefix_Sum_Queries-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.08441567588574778
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8132943765240072, pvalue=6.474428733890142e-10)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9950438296184958
+Coeficiente Spearman: 0.9967056508169292
+	interesse high: 7458115.exe . Abaixo
+processando 2185-Prime_Multiples-c++-sing-15W-elite-06-02-2026-08-16.csv
+Gordura (desvio do erro) da reta calculada:0.11874641906642928
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7891604947030778, pvalue=1.1660678702625633e-10)
+		Não podemos afirmar que segue uma distribuição normal
+2185-Prime_Multiples-c++-sing-15W-elite-06-02-2026-08-16.csv
+Coeficiente R2: 0.9827487133565755
+Coeficiente Spearman: 0.8724189455769266
+	interesse medium: 6020438.exe . Abaixo
+	interesse high: 1939404.exe . Acima
+	interesse high: 2821116.exe . Acima
+	interesse high: 2825745.exe . Acima
+	interesse high: 6617819.exe . Acima
+
+slopes:
+0.01207	0.00984	0.01263	0.01139	0.01150	0.01148	0.01198	0.01290	0.01238	0.01292	0.01235	0.01297	0.01217	0.01312	0.01135	0.01297	0.01232	0.01007	0.01252	0.01282	0.01251	0.01161	0.01261	0.01244	0.01274	0.01217	0.01281	0.01296	0.01248	0.01195	0.01248	0.01137	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+98.10970	102.44712	55.21223	184.46172	145.60903	192.76508	211.98480	248.22441	217.17184	21.76827	83.21391	109.59866	88.59719	19.41318	151.98079	81.51703	171.74254	359.46895	212.01477	157.44956	19.50900	72.62954	17.26634	84.20575	80.31380	92.69293	74.46295	104.76365	158.52197	42.22745	202.07885	128.98308	
+consumo medio:
+1.18639	1.02782	0.69680	2.10740	1.67850	2.21245	2.57465	3.20989	2.69717	0.28146	1.02895	1.38890	1.09534	0.25450	1.72865	1.04517	2.07627	3.64429	2.67874	1.99444	0.24644	0.84930	0.22118	1.06774	1.03105	1.15895	0.95624	1.34571	1.99860	0.52489	2.51939	1.45043	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99741	0.99677	0.98643	0.99570	0.98438	0.98908	0.98122	0.99704	0.99678	0.99847	0.98666	0.98928	0.97242	0.99751	0.98970	0.99523	0.98541	0.82279	0.99521	0.99733	0.98802	0.99433	0.99360	0.98250	0.98601	0.98286	0.99163	0.99812	0.98378	0.99524	0.99504	0.98275	
+0.78729	0.99249	0.98254	0.99485	0.99431	0.99116	0.99518	0.99659	0.99578	0.99277	0.99622	0.99597	0.96966	0.95824	0.99551	0.98903	0.95207	0.78780	0.98975	0.99376	0.99602	0.99577	0.93896	0.99413	0.99189	0.99167	0.98817	0.98513	0.98520	0.99361	0.99671	0.87242	
+0.02798	0.06840	0.03021	0.06568	0.07695	0.08157	0.20211	0.08587	0.08173	0.00774	0.04516	0.15637	0.10389	0.00427	0.07504	0.05124	0.16504	0.45317	0.12328	0.08053	0.01720	0.07802	0.01259	0.08331	0.05707	0.10053	0.04270	0.04076	0.10271	0.04218	0.08442	0.11875	
