@@ -192,7 +192,7 @@ def config_parser(parser):
   parser.add_argument('lang', choices=['c++'])
   parser.add_argument('machine', choices=['elite','iotlab1'])
   parser.add_argument('cores', choices=['sing', 'mult'])
-  parser.add_argument('power_limit', choices=['0', '2', '10', '15', '25'])
+  parser.add_argument('power_limit', choices=['0', '1', '2', '4', '8', '10', '15', '25'])
 
 
 parser = argparse.ArgumentParser(description='Generate makefiles.')
