@@ -17,7 +17,7 @@ perf_flag_prefix = "power/energy-"
 
 # perf power events
 power_events = {}
-list_events = ['psys', 'pkg', 'cores', 'gpu', 'ram']
+list_events = ['psys', 'pkg', 'cores', 'ram', 'gpu']
 list_times = ['duration_time', 'user_time', 'system_time']
 
 
