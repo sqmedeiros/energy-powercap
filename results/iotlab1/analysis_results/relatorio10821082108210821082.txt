@@ -1,0 +1,76 @@
+processando 1082-Sum_of_Divisors-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Gordura (desvio do erro) da reta calculada:0.0685468633059948
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8364263857011404, pvalue=3.856668773186718e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1082-Sum_of_Divisors-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.994567019168879
+Coeficiente Spearman: 0.9918415750656792
+	interesse low: 6578108.exe . Abaixo
+	interesse medium: 5081047.exe . Acima
+	interesse high: 120780.exe  . Acima
+	interesse high: 396083.exe  . Acima
+	interesse high: 3965275.exe . Abaixo
+	interesse high: 8349555.exe . Abaixo
+processando 1082-Sum_of_Divisors-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.06513651658453377
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8315907634338391, pvalue=2.622042924912547e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1082-Sum_of_Divisors-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9948194800750053
+Coeficiente Spearman: 0.9899664562778602
+	interesse low: 120780.exe  . Acima
+	interesse medium: 8349555.exe . Abaixo
+	interesse high: 396083.exe  . Acima
+	interesse high: 3965275.exe . Abaixo
+	interesse high: 5081047.exe . Acima
+processando 1082-Sum_of_Divisors-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.06648018453264844
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8425081223121088, pvalue=6.331410963035435e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1082-Sum_of_Divisors-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9947682909826623
+Coeficiente Spearman: 0.9890486423165286
+	interesse medium: 8349555.exe . Abaixo
+	interesse high: 120780.exe  . Acima
+	interesse high: 396083.exe  . Acima
+	interesse high: 3965275.exe . Abaixo
+	interesse high: 5081047.exe . Acima
+processando 1082-Sum_of_Divisors-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.06907661355197059
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8321986290173835, pvalue=2.7512775551965013e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1082-Sum_of_Divisors-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.994145039389134
+Coeficiente Spearman: 0.9909088185923839
+	interesse low: 8349555.exe . Abaixo
+	interesse medium: 6578108.exe . Abaixo
+	interesse high: 120780.exe  . Acima
+	interesse high: 396083.exe  . Acima
+	interesse high: 3965275.exe . Abaixo
+	interesse high: 5081047.exe . Acima
+processando 1082-Sum_of_Divisors-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.004613806102965536
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7503429543818669, pvalue=9.560031303556473e-12)
+		Não podemos afirmar que segue uma distribuição normal
+1082-Sum_of_Divisors-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9999147519673657
+Coeficiente Spearman: 0.9979383884721581
+	interesse low: 7276958.exe . Abaixo
+	interesse low: 7689283.exe . Abaixo
+	interesse medium: 7829045.exe . Abaixo
+	interesse high: 8005036.exe . Abaixo
+
+slopes:
+0.00778	0.00762	0.00765	0.00756	0.00196	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+102.53982	102.68073	102.55470	102.52798	219.96366	
+consumo medio:
+0.81464	0.79779	0.80158	0.79270	0.42961	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99457	0.99482	0.99477	0.99415	0.99991	
+0.99184	0.98997	0.98905	0.99091	0.99794	
+0.06855	0.06514	0.06648	0.06908	0.00461	
