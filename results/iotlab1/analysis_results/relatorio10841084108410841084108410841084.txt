@@ -1,0 +1,132 @@
+processando 1084-Apartments-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Gordura (desvio do erro) da reta calculada:0.034115560399705945
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8522810295747449, pvalue=1.4411525702633268e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1084-Apartments-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9748292787028283
+Coeficiente Spearman: 0.9772430004978074
+	interesse medium: 1342186.exe . Abaixo
+	interesse high: 3893727.exe . Abaixo
+	interesse high: 6024714.exe . Abaixo
+	interesse high: 6888530.exe . Abaixo
+	interesse high: 719640.exe  . Abaixo
+	interesse high: 772253.exe  . Abaixo
+processando 1084-Apartments-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.017661745958986945
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9023832982546824, pvalue=1.8331923083352894e-06)
+		Não podemos afirmar que segue uma distribuição normal
+1084-Apartments-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9926710585050432
+Coeficiente Spearman: 0.982003602927418
+	interesse low: 3703754.exe . Acima
+	interesse medium: 1342186.exe . Abaixo
+	interesse high: 3893727.exe . Abaixo
+	interesse high: 6888530.exe . Abaixo
+	interesse high: 719640.exe  . Abaixo
+	interesse high: 772253.exe  . Abaixo
+processando 1084-Apartments-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.032864758340599196
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8751756296470854, pvalue=1.1404283082103353e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1084-Apartments-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9758833613336103
+Coeficiente Spearman: 0.9656426538040032
+	interesse low: 5272843.exe . Abaixo
+	interesse medium: 6024714.exe . Abaixo
+	interesse high: 1342186.exe . Abaixo
+	interesse high: 3893727.exe . Abaixo
+	interesse high: 6888530.exe . Abaixo
+	interesse high: 719640.exe  . Abaixo
+	interesse high: 772253.exe  . Abaixo
+processando 1084-Apartments-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+
+
+
+Difference between times seem too large in 1172589.exe . Max = 26.899241000000018. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.003973253022093218
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8425491265096932, pvalue=6.3528663589226925e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1084-Apartments-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9978952503186843
+Coeficiente Spearman: 0.9947747633064528
+	interesse low: 1409011.exe . Acima
+	interesse low: 6024714.exe . Abaixo
+	interesse low: 6082113.exe . Abaixo
+	interesse low: 6888530.exe . Abaixo
+	interesse low: 719640.exe  . Abaixo
+	interesse low: 772253.exe  . Abaixo
+processando 1084-Apartments-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.03422734675758655
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8443501494774275, pvalue=7.374650813655295e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1084-Apartments-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.973630650653501
+Coeficiente Spearman: 0.9773056757415907
+	interesse low: 6024714.exe . Abaixo
+	interesse medium: 5272843.exe . Abaixo
+	interesse high: 1342186.exe . Abaixo
+	interesse high: 3893727.exe . Abaixo
+	interesse high: 6888530.exe . Abaixo
+	interesse high: 719640.exe  . Abaixo
+	interesse high: 772253.exe  . Abaixo
+processando 1084-Apartments-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0014579063612176707
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9870493385976731, pvalue=0.44095220910765104)
+		Segue uma distribuição normal com confiança de 95%
+1084-Apartments-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.999855348493547
+Coeficiente Spearman: 0.996734820355808
+	interesse high: 2642820.exe . Abaixo
+	interesse high: 4005226.exe . Abaixo
+	interesse high: 4306462.exe . Abaixo
+	interesse high: 6612008.exe . Abaixo
+processando 1084-Apartments-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1172589.exe . Max = 10.115109999999987. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0018228949107418188
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9850545425063374, pvalue=0.3204786629963068)
+		Segue uma distribuição normal com confiança de 95%
+1084-Apartments-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9998066999369
+Coeficiente Spearman: 0.996603178924915
+	interesse low: 2631785.exe . Abaixo
+	interesse low: 3703754.exe . Acima
+	interesse low: 5272843.exe . Acima
+	interesse high: 230403.exe  . Abaixo
+	interesse high: 4320720.exe . Acima
+processando 1084-Apartments-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.005977492089539756
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9786007227007756, pvalue=0.10335840434371252)
+		Segue uma distribuição normal com confiança de 95%
+1084-Apartments-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9994241555936996
+Coeficiente Spearman: 0.9924253213067569
+	interesse low: 2961600.exe . Abaixo
+	interesse low: 3703754.exe . Acima
+	interesse low: 549722.exe  . Abaixo
+	interesse low: 6585390.exe . Abaixo
+	interesse low: 6888530.exe . Abaixo
+	interesse low: 7765486.exe . Abaixo
+
+slopes:
+0.01032	0.00950	0.01017	0.00095	0.01010	0.00196	0.00396	0.00789	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+55.34565	56.70557	55.33702	236.39060	55.29713	143.49865	83.19505	61.00376	
+consumo medio:
+0.57026	0.53760	0.56193	0.22524	0.55776	0.28166	0.32924	0.48001	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.97483	0.99267	0.97588	0.99790	0.97363	0.99986	0.99981	0.99942	
+0.97724	0.98200	0.96564	0.99477	0.97731	0.99673	0.99660	0.99243	
+0.03412	0.01766	0.03286	0.00397	0.03423	0.00146	0.00182	0.00598	
