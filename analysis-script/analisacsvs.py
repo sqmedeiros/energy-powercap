@@ -358,9 +358,9 @@ def plotaretas(a,b,vmtempo,vdtempo,vmconsumo,vdconsumo,nsigma,estilo,estilo2,cor
     
     #plota pontos e reta de tendencia
     plt.figure(h.number)
-    plt.plot(xr,yr,estilo+ cor)        
+    plt.plot(xr,yr,estilo,color=cor)        
     #plt.errorbar(vmtempo,vmconsumo, yerr=nsigma*vdconsumo, fmt =estilos[nestilo]+cores[(i-1)%7],label=arquivos[i][0:-4],markersize=8)
-    plt.errorbar(vmtempo,vmconsumo, yerr=nsigma*vdconsumo, xerr=nsigma*vdtempo,fmt =estilo2+cor,label=arquivo[0:-4],markersize=8)
+    plt.errorbar(vmtempo,vmconsumo, yerr=nsigma*vdconsumo, xerr=nsigma*vdtempo,fmt =estilo2,color=cor,label=arquivo[0:-4],markersize=8)
     return xr, yr
     
 def calculaerro(a,b,vmtempo, vmconsumo, gorduras, flags, file):
@@ -439,8 +439,8 @@ def spearman(ds, file):
 def plotarestasdesvio(xr,yr,sigout,desvioerro,cor,h):
     plt.figure(h.number)
     plt.plot(xr,yr,cor)
-    plt.plot(xr,yr+sigout*desvioerro,'--' + cor,alpha=0.2)
-    plt.plot(xr,yr-sigout*desvioerro,'--' + cor,alpha=0.2)
+    plt.plot(xr,yr+sigout*desvioerro,'--',color=cor,alpha=0.2)
+    plt.plot(xr,yr-sigout*desvioerro,'--',color=cor,alpha=0.2)
 
 def detectaoutliers(outliers,vmtempo,vmconsumo,vdtempo,vdconsumo,sigout,desvioerro,verr,vnome,cor,h):
 
@@ -476,10 +476,10 @@ def detectaoutliers(outliers,vmtempo,vmconsumo,vdtempo,vdconsumo,sigout,desvioer
                 file.write('\tinteresse ' + vlabel[k] +': ' + vnome[m] + '. ' + complemento + '\n')
                 plt.annotate(vnome[m], (vmtempo[m]+10, vmconsumo[m]))
         if i == 1:
-            plt.errorbar(ttmp,ctmp, yerr=dctmp, xerr=dttmp, fmt = vestcol[k]+cor,label=vlabel[k])
+            plt.errorbar(ttmp,ctmp, yerr=dctmp, xerr=dttmp, fmt = vestcol[k],color=cor,label=vlabel[k])
 
         else:
-            plt.errorbar(ttmp,ctmp, yerr=dctmp, xerr=dttmp, fmt = vestcol[k]+cor)
+            plt.errorbar(ttmp,ctmp, yerr=dctmp, xerr=dttmp, fmt = vestcol[k],color=cor)
         #inserir, na k esima linha, a lista de selecionados com interesse k    
         outliers['csel'].append(ctmp)
         outliers['tsel'].append(ttmp)
@@ -693,9 +693,9 @@ print('Executing on ', sistemaoperacional)
 arquivos = sys.argv
 narq = checkargs(arquivos)
 
-cores = ['b','r','g','m','k','c','y']
-estilos = ['-','--','-.',':','-','--','-.']
-estilos2 = ['.','s','+','d','o','*','^']
+cores = ['b','r','g','m','k','c','y','tab:orange','tab:gray','tab:brown','tab:purple']
+estilos = ['-','--','-.',':','-','--','-.','-','--','-.',':']
+estilos2 = ['.','s','+','d','o','*','^','.','s','+','d']
 nestilo = -1
 
 #número de desvios padrao da barra de erro
@@ -742,7 +742,7 @@ for i in range(1,len(arquivos)):
     
     a,b = calculaajuste(vmtempo, vmconsumo, vdconsumo, flags)
 
-    indest = (i-1)%7
+    indest = (i-1)%9
     xr, yr = plotaretas(a,b,vmtempo,vdtempo,vmconsumo,vdconsumo,nsigma,estilos[indest],estilos2[indest],cores[indest],arquivos[i],h1)
     verr, sse, desvioerro, gorduras = calculaerro(a,b,vmtempo, vmconsumo, gorduras, flags, file)
     sigout = 2 #nmero de desvios para um ponto ser considerado outlier
