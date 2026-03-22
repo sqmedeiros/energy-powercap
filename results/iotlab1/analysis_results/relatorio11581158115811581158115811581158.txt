@@ -1,0 +1,128 @@
+processando 1158-Bookshop-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1086590.exe . Max = 44.312281999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.06633280288734746
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9793626625836224, pvalue=0.11855973254006086)
+		Segue uma distribuição normal com confiança de 95%
+1158-Bookshop-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9979978153711248
+Coeficiente Spearman: 0.9965526449269123
+	interesse high: 2526872.exe . Acima
+	interesse high: 3384818.exe . Abaixo
+	interesse high: 7341220.exe . Acima
+	interesse high: 8240027.exe . Acima
+processando 1158-Bookshop-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1086590.exe . Max = 10.731280999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.037317759425419934
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9807359089192624, pvalue=0.15163127721709996)
+		Segue uma distribuição normal com confiança de 95%
+1158-Bookshop-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9990712851265285
+Coeficiente Spearman: 0.997596752469994
+	interesse low: 412303.exe  . Abaixo
+	interesse medium: 5980769.exe . Abaixo
+	interesse medium: 8459493.exe . Acima
+	interesse high: 2881871.exe . Acima
+processando 1158-Bookshop-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1086590.exe . Max = 19.074028999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.07016418201519048
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9774633758770417, pvalue=0.08417539455581632)
+		Segue uma distribuição normal com confiança de 95%
+1158-Bookshop-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9975208597415361
+Coeficiente Spearman: 0.9944643966595161
+	interesse high: 2526872.exe . Acima
+	interesse high: 3384818.exe . Abaixo
+	interesse high: 7341220.exe . Acima
+	interesse high: 8240027.exe . Acima
+processando 1158-Bookshop-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.011670070419102535
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.813938318908248, pvalue=6.790613900077008e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1158-Bookshop-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9994554622489193
+Coeficiente Spearman: 0.9990668928050805
+	interesse low: 2559658.exe . Acima
+	interesse low: 3384818.exe . Abaixo
+	interesse medium: 7341220.exe . Acima
+	interesse medium: 8240027.exe . Acima
+	interesse high: 2526872.exe . Acima
+processando 1158-Bookshop-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.06550840248811239
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9819295682445447, pvalue=0.18738815043835422)
+		Segue uma distribuição normal com confiança de 95%
+1158-Bookshop-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9979082241164365
+Coeficiente Spearman: 0.9969246648288462
+	interesse high: 2526872.exe . Acima
+	interesse high: 3384818.exe . Abaixo
+	interesse high: 7341220.exe . Acima
+	interesse high: 8240027.exe . Acima
+processando 1158-Bookshop-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0027223742608383406
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9691370367597425, pvalue=0.018992697164953627)
+		Não podemos afirmar que segue uma distribuição normal
+1158-Bookshop-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9999811399208401
+Coeficiente Spearman: 0.999864984585725
+	interesse low: 5980254.exe . Abaixo
+	interesse low: 6110683.exe . Acima
+	interesse low: 6919345.exe . Abaixo
+	interesse low: 6993680.exe . Acima
+	interesse low: 8576029.exe . Abaixo
+	interesse low: 8578083.exe . Acima
+	interesse low: 976549.exe  . Acima
+processando 1158-Bookshop-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.001510936184903506
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9849920484249557, pvalue=0.3171734712879775)
+		Segue uma distribuição normal com confiança de 95%
+1158-Bookshop-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999963734547795
+Coeficiente Spearman: 0.9999579952054465
+	interesse low: 2526872.exe . Acima
+	interesse low: 2795168.exe . Acima
+	interesse low: 4406522.exe . Abaixo
+	interesse low: 7341220.exe . Acima
+	interesse high: 7926038.exe . Acima
+processando 1158-Bookshop-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.0038420858124712243
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9793918784705442, pvalue=0.11918422995411287)
+		Segue uma distribuição normal com confiança de 95%
+1158-Bookshop-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.999987104999166
+Coeficiente Spearman: 0.999819979909745
+	interesse low: 1251351.exe . Acima
+	interesse low: 3153091.exe . Abaixo
+	interesse low: 4955200.exe . Abaixo
+
+slopes:
+0.01017	0.00972	0.01001	0.00097	0.00992	0.00197	0.00397	0.00796	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+250.94609	256.66354	251.26734	1037.55699	250.89555	649.54225	377.83061	277.54754	
+consumo medio:
+2.56850	2.49803	2.53070	1.00510	2.50456	1.27916	1.50030	2.20896	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99800	0.99907	0.99752	0.99946	0.99791	0.99998	1.00000	0.99999	
+0.99655	0.99760	0.99446	0.99907	0.99692	0.99986	0.99996	0.99982	
+0.06633	0.03732	0.07016	0.01167	0.06551	0.00272	0.00151	0.00384	

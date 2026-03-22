@@ -1,0 +1,141 @@
+processando 1672-Shortest_Routes_II-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1097695.exe . Max = 69.665638. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.09455159510830397
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9486707095356516, pvalue=0.0006788194991111633)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9798317748746992
+Coeficiente Spearman: 0.981253900507515
+	interesse low: 1908480.exe . Acima
+	interesse low: 6714442.exe . Acima
+	interesse high: 4947084.exe . Acima
+	interesse high: 8319654.exe . Abaixo
+processando 1672-Shortest_Routes_II-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1097695.exe . Max = 14.380755999999991. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.031342063689832465
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7646780949152091, pvalue=2.3300592117543362e-11)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9969452522961282
+Coeficiente Spearman: 0.9979717729104279
+	interesse high: 8319654.exe . Abaixo
+processando 1672-Shortest_Routes_II-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.09503775528836632
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9486680889595125, pvalue=0.0006785525555418889)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9793807994104379
+Coeficiente Spearman: 0.9832819272421983
+	interesse medium: 6714442.exe . Acima
+	interesse high: 4947084.exe . Acima
+	interesse high: 8319654.exe . Abaixo
+processando 1672-Shortest_Routes_II-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.03175148379005303
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8965729262777759, pvalue=9.789974727423293e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9828214948958779
+Coeficiente Spearman: 0.980095770796904
+	interesse low: 1663963.exe . Acima
+	interesse low: 1863351.exe . Acima
+	interesse low: 248468.exe  . Abaixo
+	interesse low: 5299880.exe . Abaixo
+	interesse low: 5568655.exe . Acima
+	interesse medium: 6386527.exe . Acima
+	interesse high: 1908480.exe . Acima
+	interesse high: 4947084.exe . Acima
+processando 1672-Shortest_Routes_II-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1097695.exe . Max = 15.527152000000001. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.09473192876145506
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9588664918005968, pvalue=0.0033411488674222715)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9795573547724038
+Coeficiente Spearman: 0.983086852388634
+	interesse low: 4947084.exe . Acima
+	interesse high: 6714442.exe . Acima
+	interesse high: 8319654.exe . Abaixo
+processando 1672-Shortest_Routes_II-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.005873253640803193
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6668948844033165, pvalue=9.741150454546686e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.999595709046094
+Coeficiente Spearman: 0.99914189388263
+	interesse low: 6596819.exe . Abaixo
+	interesse low: 6698648.exe . Abaixo
+	interesse low: 6714442.exe . Acima
+	interesse low: 6966964.exe . Abaixo
+	interesse low: 7327846.exe . Abaixo
+	interesse low: 8106119.exe . Abaixo
+	interesse low: 971881.exe  . Abaixo
+processando 1672-Shortest_Routes_II-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1097695.exe . Max = 35.92366599999997. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0017711837792731989
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.989441940179627, pvalue=0.6196506389297779)
+		Segue uma distribuição normal com confiança de 95%
+1672-Shortest_Routes_II-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999761910092598
+Coeficiente Spearman: 0.9997989738079794
+	interesse low: 1663963.exe . Acima
+	interesse low: 3564636.exe . Acima
+	interesse low: 7100116.exe . Abaixo
+	interesse high: 1316078.exe . Acima
+processando 1672-Shortest_Routes_II-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1097695.exe . Max = 13.796426999999994. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.005922659335222376
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8384280346295103, pvalue=4.534194396337484e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1672-Shortest_Routes_II-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.999845271106666
+Coeficiente Spearman: 0.9994689299119615
+	interesse low: 1097695.exe . Abaixo
+	interesse low: 1359491.exe . Abaixo
+	interesse low: 3162850.exe . Abaixo
+	interesse low: 4542735.exe . Abaixo
+	interesse low: 6074729.exe . Abaixo
+
+slopes:
+0.01025	0.00971	0.01037	0.00096	0.01018	0.00197	0.00397	0.00795	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+158.53807	163.42702	158.48931	698.03804	158.43011	433.88806	246.89238	175.58862	
+consumo medio:
+1.64417	1.59067	1.66129	0.67849	1.63125	0.85321	0.97991	1.39511	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.97983	0.99695	0.97938	0.98282	0.97956	0.99960	0.99998	0.99985	
+0.98125	0.99797	0.98328	0.98010	0.98309	0.99914	0.99980	0.99947	
+0.09455	0.03134	0.09504	0.03175	0.09473	0.00587	0.00177	0.00592	

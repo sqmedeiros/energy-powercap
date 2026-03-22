@@ -1,0 +1,146 @@
+processando 1635-Coin_Combinations_I-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1285040.exe . Max = 16.023630000000026. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.41764647405648797
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.839633681346624, pvalue=5.001535805800431e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.7701618875343982
+Coeficiente Spearman: 0.7773990687516792
+	interesse medium: 8030039.exe . Acima
+	interesse high: 1369343.exe . Acima
+	interesse high: 2117851.exe . Acima
+	interesse high: 2358242.exe . Acima
+	interesse high: 2597067.exe . Acima
+	interesse high: 3094511.exe . Acima
+	interesse high: 3891304.exe . Acima
+processando 1635-Coin_Combinations_I-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1285040.exe . Max = 21.634119. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.37160428379211835
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8421548063638696, pvalue=6.1496568561473775e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.8106886177936348
+Coeficiente Spearman: 0.7874729219323736
+	interesse medium: 3094511.exe . Acima
+	interesse medium: 4833711.exe . Acima
+	interesse high: 1369343.exe . Acima
+	interesse high: 2117851.exe . Acima
+	interesse high: 2358242.exe . Acima
+	interesse high: 2597067.exe . Acima
+	interesse high: 3891304.exe . Acima
+	interesse high: 7112423.exe . Acima
+	interesse high: 8030039.exe . Acima
+processando 1635-Coin_Combinations_I-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.4068967761433115
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8335552627633914, pvalue=3.0643758891591922e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.7755485593052501
+Coeficiente Spearman: 0.7730439426718395
+	interesse low: 7112423.exe . Acima
+	interesse medium: 8030039.exe . Acima
+	interesse high: 1369343.exe . Acima
+	interesse high: 2117851.exe . Acima
+	interesse high: 2358242.exe . Acima
+	interesse high: 2597067.exe . Acima
+	interesse high: 3094511.exe . Acima
+	interesse high: 3891304.exe . Acima
+processando 1635-Coin_Combinations_I-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.011766190326538473
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9693644716716114, pvalue=0.01976608626665959)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9987744529113736
+Coeficiente Spearman: 0.9962135533607022
+	interesse low: 2434254.exe . Acima
+	interesse low: 3292593.exe . Abaixo
+	interesse low: 4860949.exe . Abaixo
+	interesse low: 5230409.exe . Abaixo
+	interesse low: 5936624.exe . Abaixo
+processando 1635-Coin_Combinations_I-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1285040.exe . Max = 12.313209000000029. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.4040802966495984
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8273189679301228, pvalue=1.8756309789412087e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.7729484021837504
+Coeficiente Spearman: 0.7850572160790369
+	interesse low: 7112423.exe . Acima
+	interesse low: 8090613.exe . Acima
+	interesse low: 8523429.exe . Acima
+	interesse high: 1369343.exe . Acima
+	interesse high: 2117851.exe . Acima
+	interesse high: 2358242.exe . Acima
+	interesse high: 2597067.exe . Acima
+	interesse high: 3094511.exe . Acima
+	interesse high: 3891304.exe . Acima
+	interesse high: 8030039.exe . Acima
+processando 1635-Coin_Combinations_I-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.007499478657390618
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9267047985617369, pvalue=3.2515808181879814e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9997220447507056
+Coeficiente Spearman: 0.9973176676780552
+	interesse low: 4000875.exe . Abaixo
+	interesse low: 4356413.exe . Abaixo
+	interesse low: 6002652.exe . Abaixo
+	interesse medium: 7743700.exe . Abaixo
+processando 1635-Coin_Combinations_I-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.0038062730710622266
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9768758786937418, pvalue=0.07569895252719815)
+		Segue uma distribuição normal com confiança de 95%
+1635-Coin_Combinations_I-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999515611738558
+Coeficiente Spearman: 0.999426921102203
+	interesse low: 1369343.exe . Acima
+	interesse low: 2117851.exe . Acima
+	interesse low: 3094511.exe . Acima
+processando 1635-Coin_Combinations_I-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1285040.exe . Max = 39.937021000000016. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.16933057203974008
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9213330775993541, pvalue=1.6575332602050756e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1635-Coin_Combinations_I-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.952881933735562
+Coeficiente Spearman: 0.8816199660570805
+	interesse low: 4000875.exe . Abaixo
+
+slopes:
+0.00799	0.00794	0.00790	0.00096	0.00781	0.00196	0.00396	0.00738	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+359.52141	360.52371	359.50534	1205.81122	359.49027	793.19832	481.52252	367.65228	
+consumo medio:
+2.89224	2.87968	2.86204	1.15865	2.82855	1.55459	1.90605	2.71539	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.77016	0.81069	0.77555	0.99877	0.77295	0.99972	0.99995	0.95288	
+0.77740	0.78747	0.77304	0.99621	0.78506	0.99732	0.99943	0.88162	
+0.41765	0.37160	0.40690	0.01177	0.40408	0.00750	0.00381	0.16933	

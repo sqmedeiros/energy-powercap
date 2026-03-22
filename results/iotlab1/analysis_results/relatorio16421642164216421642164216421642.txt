@@ -1,0 +1,40 @@
+processando 1642-Sum_of_Four_Values-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Gordura (desvio do erro) da reta calculada:0.06708007757145225
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5835122997581652, pvalue=2.115591275567061e-15)
+		Não podemos afirmar que segue uma distribuição normal
+1642-Sum_of_Four_Values-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9935365711381978
+Coeficiente Spearman: 0.9967683806088145
+	interesse low: 1471884.exe . Acima
+	interesse low: 1810441.exe . Acima
+	interesse high: 1554849.exe . Abaixo
+	interesse high: 165572.exe  . Abaixo
+	interesse high: 3408564.exe . Abaixo
+processando 1642-Sum_of_Four_Values-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.06923663977306788
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5279884514470372, pvalue=2.227523273566663e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1642-Sum_of_Four_Values-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9933061142677031
+Coeficiente Spearman: 0.9968253087466458
+	interesse high: 1554849.exe . Abaixo
+	interesse high: 165572.exe  . Abaixo
+	interesse high: 3408564.exe . Abaixo
+processando 1642-Sum_of_Four_Values-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1175601.exe . Max = 35.542963. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.07121139261978346
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5559535210637704, pvalue=6.745877889322713e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1642-Sum_of_Four_Values-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9928453236447274
+Coeficiente Spearman: 0.9964113012074
+	interesse medium: 165572.exe  . Abaixo
+	interesse high: 1554849.exe . Abaixo
+	interesse high: 3408564.exe . Abaixo
+processando 1642-Sum_of_Four_Values-c++-mult-1W-iotlab1-09-03-2026-08-44.csv

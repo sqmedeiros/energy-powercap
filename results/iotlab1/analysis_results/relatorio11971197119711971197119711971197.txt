@@ -1,0 +1,132 @@
+processando 1197-Cycle_Finding-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Gordura (desvio do erro) da reta calculada:0.14584878176420654
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6693562997204927, pvalue=1.1016080087475862e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9864034018356409
+Coeficiente Spearman: 0.9941252367281891
+	interesse low: 5559815.exe . Acima
+	interesse high: 2636614.exe . Abaixo
+	interesse high: 3731597.exe . Abaixo
+	interesse high: 5878214.exe . Abaixo
+	interesse high: 6337865.exe . Acima
+processando 1197-Cycle_Finding-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1017851.exe . Max = 46.12878499999999. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.04012604385385931
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6826449184029044, pvalue=2.164583999411567e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9987538614519587
+Coeficiente Spearman: 0.9963694853458418
+	interesse low: 6337865.exe . Acima
+	interesse high: 2636614.exe . Abaixo
+	interesse high: 3731597.exe . Abaixo
+processando 1197-Cycle_Finding-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1017851.exe . Max = 40.481018000000006. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.14469786103463705
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6756784648499711, pvalue=1.5154104386474357e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.986373539439835
+Coeficiente Spearman: 0.9915836802488797
+	interesse high: 2636614.exe . Abaixo
+	interesse high: 3731597.exe . Abaixo
+	interesse high: 5878214.exe . Abaixo
+	interesse high: 6337865.exe . Acima
+processando 1197-Cycle_Finding-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.003344389887151605
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9177839053421321, pvalue=1.0757411939567827e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9999573899722892
+Coeficiente Spearman: 0.997887530504916
+	interesse low: 5981428.exe . Abaixo
+	interesse low: 6125506.exe . Acima
+	interesse low: 6360779.exe . Abaixo
+	interesse low: 6618032.exe . Abaixo
+	interesse low: 6660506.exe . Abaixo
+	interesse low: 7138546.exe . Abaixo
+	interesse low: 787752.exe  . Abaixo
+	interesse low: 8000029.exe . Acima
+	interesse low: 8416472.exe . Abaixo
+processando 1197-Cycle_Finding-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.14551407683359321
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.658215927912366, pvalue=6.345508028841035e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9858500655923295
+Coeficiente Spearman: 0.9923819418447277
+	interesse medium: 5559815.exe . Acima
+	interesse high: 2636614.exe . Abaixo
+	interesse high: 3731597.exe . Abaixo
+	interesse high: 5878214.exe . Abaixo
+	interesse high: 6337865.exe . Acima
+processando 1197-Cycle_Finding-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+
+
+
+Difference between times seem too large in 1017851.exe . Max = 41.405017000000015. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.00250619300095839
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.956508310282393, pvalue=0.002284530472608554)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9999853549744935
+Coeficiente Spearman: 0.9986677140890894
+	interesse low: 7004389.exe . Abaixo
+	interesse low: 787752.exe  . Abaixo
+	interesse low: 8000029.exe . Acima
+	interesse low: 879396.exe  . Abaixo
+	interesse low: 968323.exe  . Acima
+	interesse high: 7899808.exe . Abaixo
+processando 1197-Cycle_Finding-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.0017688314427538648
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9705744496815472, pvalue=0.02446447110519791)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999937636485677
+Coeficiente Spearman: 0.9996159098956445
+	interesse low: 1497005.exe . Abaixo
+	interesse low: 2636614.exe . Abaixo
+	interesse low: 3731597.exe . Abaixo
+	interesse high: 2539436.exe . Abaixo
+processando 1197-Cycle_Finding-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.007476757551695464
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9554844606594834, pvalue=0.0019412064810777462)
+		Não podemos afirmar que segue uma distribuição normal
+1197-Cycle_Finding-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9999729076758903
+Coeficiente Spearman: 0.9985687769204062
+	interesse low: 1753870.exe . Abaixo
+	interesse low: 4232498.exe . Abaixo
+	interesse low: 8136255.exe . Abaixo
+	interesse medium: 6337865.exe . Acima
+
+slopes:
+0.01070	0.00979	0.01063	0.00096	0.01051	0.00197	0.00397	0.00796	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+109.75417	113.07055	109.74975	454.01581	109.63415	297.02998	171.24929	121.92493	
+consumo medio:
+1.14456	1.10200	1.13823	0.43666	1.12439	0.58484	0.68011	0.96659	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.98640	0.99875	0.98637	0.99996	0.98585	0.99999	0.99999	0.99997	
+0.99413	0.99637	0.99158	0.99789	0.99238	0.99867	0.99962	0.99857	
+0.14585	0.04013	0.14470	0.00334	0.14551	0.00251	0.00177	0.00748	

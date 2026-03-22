@@ -1,0 +1,120 @@
+processando 1628-Meet_in_the_Middle-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1655552.exe . Max = 15.397307999999995. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0628120990619001
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7787485158018199, pvalue=5.793900661123968e-11)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9887625349810514
+Coeficiente Spearman: 0.9965436129564103
+	interesse high: 4625512.exe . Acima
+processando 1628-Meet_in_the_Middle-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.053799102870335784
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9455304152194158, pvalue=0.000426132468587007)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9917171069555288
+Coeficiente Spearman: 0.9964625933103456
+	interesse low: 2942175.exe . Acima
+	interesse low: 8385649.exe . Acima
+	interesse high: 4625512.exe . Acima
+processando 1628-Meet_in_the_Middle-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.06303417012367596
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8191983623642658, pvalue=1.0065406323696851e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9887110959439563
+Coeficiente Spearman: 0.9965226418365939
+	interesse high: 4625512.exe . Acima
+processando 1628-Meet_in_the_Middle-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.09462491715967901
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.3880156686532611, pvalue=1.6358515780715058e-18)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.8846078133554901
+Coeficiente Spearman: 0.966608759664851
+	interesse high: 6607910.exe . Acima
+	interesse high: 6644544.exe . Acima
+	interesse high: 6730647.exe . Acima
+	interesse high: 688376.exe  . Acima
+processando 1628-Meet_in_the_Middle-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1655552.exe . Max = 15.404196999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.06488676286641944
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7985844871244234, pvalue=2.2407153175332131e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9878612074771286
+Coeficiente Spearman: 0.9963006189682375
+	interesse low: 2942175.exe . Acima
+	interesse high: 4625512.exe . Acima
+processando 1628-Meet_in_the_Middle-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+
+
+
+Difference between times seem too large in 1655552.exe . Max = 35.547387000000015. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.006338398116615326
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6014354183971228, pvalue=4.5836869727038806e-15)
+		Não podemos afirmar que segue uma distribuição normal
+1628-Meet_in_the_Middle-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9995983885516179
+Coeficiente Spearman: 0.9997119645715596
+	interesse low: 6730647.exe . Abaixo
+	interesse low: 8485009.exe . Abaixo
+	interesse medium: 8110126.exe . Abaixo
+	interesse high: 7371640.exe . Abaixo
+	interesse high: 8351416.exe . Abaixo
+processando 1628-Meet_in_the_Middle-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.0017514707581327176
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9834034717314681, pvalue=0.24233371027135941)
+		Segue uma distribuição normal com confiança de 95%
+1628-Meet_in_the_Middle-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999792660956105
+Coeficiente Spearman: 0.9998829860618144
+	interesse low: 1898852.exe . Abaixo
+processando 1628-Meet_in_the_Middle-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1655552.exe . Max = 15.631787000000003. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.009050877740024579
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9785229009232432, pvalue=0.10191809584510941)
+		Segue uma distribuição normal com confiança de 95%
+1628-Meet_in_the_Middle-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9997847469418858
+Coeficiente Spearman: 0.9995529513121795
+	interesse low: 3080883.exe . Abaixo
+	interesse low: 6258569.exe . Abaixo
+	interesse medium: 2254880.exe . Acima
+	interesse medium: 8110126.exe . Abaixo
+
+slopes:
+0.00909	0.00904	0.00910	0.00099	0.00903	0.00196	0.00396	0.00790	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+152.22128	152.69912	152.29764	600.07483	152.22997	365.83925	221.13582	159.48311	
+consumo medio:
+1.38627	1.38033	1.38781	0.58921	1.37589	0.71754	0.87661	1.25775	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.98876	0.99172	0.98871	0.88461	0.98786	0.99960	0.99998	0.99978	
+0.99654	0.99646	0.99652	0.96661	0.99630	0.99971	0.99988	0.99955	
+0.06281	0.05380	0.06303	0.09462	0.06489	0.00634	0.00175	0.00905	

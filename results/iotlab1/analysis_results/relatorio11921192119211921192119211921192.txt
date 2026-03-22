@@ -1,0 +1,130 @@
+processando 1192-Counting_Rooms-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1017040.exe . Max = 49.335936000000004. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.010903689718678533
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7077320265390654, pvalue=8.196288871556137e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1192-Counting_Rooms-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9954157088285056
+Coeficiente Spearman: 0.9893078646348336
+	interesse low: 4842228.exe . Acima
+	interesse low: 7725672.exe . Abaixo
+	interesse medium: 2395064.exe . Abaixo
+	interesse high: 1017040.exe . Abaixo
+processando 1192-Counting_Rooms-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.004530840886529955
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8202312638846467, pvalue=1.0883605654194969e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1192-Counting_Rooms-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9991518290895784
+Coeficiente Spearman: 0.9921675023926374
+	interesse low: 7740671.exe . Abaixo
+	interesse medium: 1017040.exe . Abaixo
+	interesse medium: 2395064.exe . Abaixo
+processando 1192-Counting_Rooms-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1017040.exe . Max = 10.359204999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.007081617589760458
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9291055163010846, pvalue=4.429466358574721e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1192-Counting_Rooms-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9981229358850975
+Coeficiente Spearman: 0.9869620225170549
+	interesse low: 1140402.exe . Acima
+	interesse low: 3095970.exe . Abaixo
+	interesse low: 4842228.exe . Acima
+	interesse low: 6599213.exe . Abaixo
+	interesse low: 7706034.exe . Acima
+	interesse low: 7740671.exe . Abaixo
+	interesse medium: 2395064.exe . Abaixo
+processando 1192-Counting_Rooms-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.001849949016114225
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9891651659241281, pvalue=0.5976074180989162)
+		Segue uma distribuição normal com confiança de 95%
+1192-Counting_Rooms-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9991668759265775
+Coeficiente Spearman: 0.9952105446729926
+	interesse low: 3040402.exe . Acima
+	interesse high: 2823661.exe . Abaixo
+	interesse high: 7617595.exe . Acima
+processando 1192-Counting_Rooms-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1017040.exe . Max = 17.292546. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.006751676877265547
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8548472211645228, pvalue=1.7986277197466172e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1192-Counting_Rooms-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9982337441337827
+Coeficiente Spearman: 0.9924741739909375
+	interesse low: 1017040.exe . Abaixo
+	interesse low: 4401483.exe . Abaixo
+	interesse low: 6599213.exe . Abaixo
+	interesse high: 2395064.exe . Abaixo
+processando 1192-Counting_Rooms-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0020516396665520285
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9869073247806908, pvalue=0.43142428915667813)
+		Segue uma distribuição normal com confiança de 95%
+1192-Counting_Rooms-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9995270403868353
+Coeficiente Spearman: 0.9956274793007821
+	interesse high: 6322924.exe . Acima
+	interesse high: 6776543.exe . Acima
+	interesse high: 7632599.exe . Acima
+processando 1192-Counting_Rooms-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1017040.exe . Max = 33.409462000000005. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0016238470795811241
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9887268921401845, pvalue=0.5632413009054864)
+		Segue uma distribuição normal com confiança de 95%
+1192-Counting_Rooms-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9997173005118652
+Coeficiente Spearman: 0.9959571556672181
+	interesse low: 2802363.exe . Acima
+	interesse high: 293813.exe  . Abaixo
+	interesse high: 4547513.exe . Acima
+	interesse high: 4842228.exe . Acima
+processando 1192-Counting_Rooms-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.003536314863376014
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8754389869264182, pvalue=1.1693954497182159e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1192-Counting_Rooms-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9993534286794199
+Coeficiente Spearman: 0.9916634375385965
+	interesse low: 1017040.exe . Abaixo
+	interesse low: 2395064.exe . Abaixo
+	interesse low: 8307961.exe . Abaixo
+
+slopes:
+0.01035	0.00975	0.01058	0.00097	0.01038	0.00198	0.00398	0.00791	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+21.96053	22.42661	21.86301	91.35757	21.90917	57.86992	33.64896	24.22618	
+consumo medio:
+0.22765	0.21905	0.23121	0.08838	0.22764	0.11490	0.13419	0.19129	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99542	0.99915	0.99812	0.99917	0.99823	0.99953	0.99972	0.99935	
+0.98931	0.99217	0.98696	0.99521	0.99247	0.99563	0.99596	0.99166	
+0.01090	0.00453	0.00708	0.00185	0.00675	0.00205	0.00162	0.00354	

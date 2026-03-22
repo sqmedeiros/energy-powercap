@@ -1,0 +1,136 @@
+processando 1669-Round_Trip-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1055487.exe . Max = 83.679202. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.04952811215849661
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7252635757313254, pvalue=2.1807877913000176e-12)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9827963729648539
+Coeficiente Spearman: 0.9883037817219181
+	interesse high: 1969973.exe . Abaixo
+	interesse high: 7534269.exe . Abaixo
+processando 1669-Round_Trip-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1055487.exe . Max = 56.055886999999984. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.02004272195612985
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6214566186564936, pvalue=1.1206297972306184e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9969744971012114
+Coeficiente Spearman: 0.9896209394175468
+	interesse high: 1969973.exe . Abaixo
+	interesse high: 7534269.exe . Abaixo
+processando 1669-Round_Trip-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1055487.exe . Max = 85.65091400000003. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.04903960330815566
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8008123296042996, pvalue=2.6225475322865753e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9835341303636284
+Coeficiente Spearman: 0.9787254536081915
+	interesse low: 1055487.exe . Abaixo
+	interesse high: 1969973.exe . Abaixo
+	interesse high: 7534269.exe . Abaixo
+processando 1669-Round_Trip-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.009798347872549797
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7558693135901069, pvalue=1.3420869921945848e-11)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.995963337317388
+Coeficiente Spearman: 0.9725817277872753
+	interesse low: 1102079.exe . Acima
+	interesse low: 1701757.exe . Acima
+	interesse low: 7534269.exe . Abaixo
+	interesse high: 3025210.exe . Acima
+processando 1669-Round_Trip-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.04814223107210307
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7455282726566612, pvalue=7.14354676748112e-12)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.983882601548698
+Coeficiente Spearman: 0.9851921463455305
+	interesse high: 1969973.exe . Abaixo
+	interesse high: 7534269.exe . Abaixo
+processando 1669-Round_Trip-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+
+
+
+Difference between times seem too large in 1055487.exe . Max = 39.41363200000001. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0013596036250203007
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9922623052707679, pvalue=0.8398890216310071)
+		Segue uma distribuição normal com confiança de 95%
+1669-Round_Trip-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9999528481860933
+Coeficiente Spearman: 0.9983397199019511
+	interesse low: 4344120.exe . Acima
+	interesse low: 6436202.exe . Abaixo
+	interesse low: 7651057.exe . Acima
+	interesse low: 959323.exe  . Acima
+processando 1669-Round_Trip-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1055487.exe . Max = 64.426119. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0018539633652519254
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9814315192940783, pvalue=0.17159615464489109)
+		Segue uma distribuição normal com confiança de 95%
+1669-Round_Trip-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.999933941263809
+Coeficiente Spearman: 0.996361032696847
+	interesse low: 4444001.exe . Abaixo
+	interesse low: 7534269.exe . Abaixo
+	interesse high: 4344120.exe . Acima
+processando 1669-Round_Trip-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1055487.exe . Max = 26.35535399999999. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.005243273043770331
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8936930241072432, pvalue=7.227084321308242e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1669-Round_Trip-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9997368504068401
+Coeficiente Spearman: 0.9910220851672658
+	interesse low: 5182138.exe . Abaixo
+	interesse low: 7039042.exe . Abaixo
+	interesse high: 1055487.exe . Abaixo
+
+slopes:
+0.01033	0.00973	0.01044	0.00098	0.01038	0.00197	0.00397	0.00793	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+74.48032	76.75540	74.74661	319.65035	74.51329	191.66503	115.00659	82.15759	
+consumo medio:
+0.77030	0.74752	0.78078	0.31435	0.77336	0.37810	0.45710	0.65094	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.98280	0.99697	0.98353	0.99596	0.98388	0.99995	0.99993	0.99974	
+0.98830	0.98962	0.97873	0.97258	0.98519	0.99834	0.99636	0.99102	
+0.04953	0.02004	0.04904	0.00980	0.04814	0.00136	0.00185	0.00524	

@@ -1,0 +1,141 @@
+processando 1621-Distinct_Numbers-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1061805.exe . Max = 15.203829999999998. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.006836732058606835
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8830791200534995, pvalue=2.4555647245805964e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1621-Distinct_Numbers-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9936085984092875
+Coeficiente Spearman: 0.9379847389599241
+	interesse low: 3863251.exe . Acima
+	interesse low: 4526544.exe . Abaixo
+processando 1621-Distinct_Numbers-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1061805.exe . Max = 32.873935. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.004115550793124518
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8209932225427823, pvalue=1.1531665761721972e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1621-Distinct_Numbers-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9961771608798025
+Coeficiente Spearman: 0.9560789833636107
+	interesse low: 3236787.exe . Abaixo
+	interesse medium: 6028185.exe . Abaixo
+processando 1621-Distinct_Numbers-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1061805.exe . Max = 15.494567000000002. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.005831708851647458
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.978233571247956, pvalue=0.09673483998934966)
+		Segue uma distribuição normal com confiança de 95%
+1621-Distinct_Numbers-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9942036197703772
+Coeficiente Spearman: 0.9167758563562366
+	interesse low: 1141022.exe . Abaixo
+processando 1621-Distinct_Numbers-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.0013684849322438272
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9695864202366575, pvalue=0.020552268559728408)
+		Não podemos afirmar que segue uma distribuição normal
+1621-Distinct_Numbers-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9978860748620121
+Coeficiente Spearman: 0.990469189877835
+	interesse low: 3234095.exe . Abaixo
+	interesse low: 6771116.exe . Acima
+	interesse low: 779257.exe  . Acima
+	interesse high: 3521600.exe . Acima
+	interesse high: 375888.exe  . Acima
+	interesse high: 3903900.exe . Acima
+	interesse high: 779384.exe  . Acima
+processando 1621-Distinct_Numbers-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1061805.exe . Max = 13.103013. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.005095284477085773
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9921261615325078, pvalue=0.8302893470375725)
+		Segue uma distribuição normal com confiança de 95%
+1621-Distinct_Numbers-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.995828471436576
+Coeficiente Spearman: 0.9100199939452538
+	interesse low: 4913843.exe . Acima
+	interesse low: 5734036.exe . Abaixo
+	interesse low: 5884549.exe . Abaixo
+	interesse low: 7449568.exe . Abaixo
+processando 1621-Distinct_Numbers-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0017626411990575358
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.989468407554843, pvalue=0.621769504705605)
+		Segue uma distribuição normal com confiança de 95%
+1621-Distinct_Numbers-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9973965367478471
+Coeficiente Spearman: 0.9802718080079015
+	interesse high: 3270012.exe . Abaixo
+	interesse high: 5734036.exe . Acima
+processando 1621-Distinct_Numbers-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1061805.exe . Max = 29.718860999999997. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0015648500107960084
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9803399725660196, pvalue=0.14127820093190235)
+		Segue uma distribuição normal com confiança de 95%
+1621-Distinct_Numbers-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9985184489590674
+Coeficiente Spearman: 0.9752660120020552
+	interesse low: 526412.exe  . Abaixo
+	interesse low: 5415124.exe . Acima
+	interesse high: 237541.exe  . Acima
+	interesse high: 3270012.exe . Abaixo
+	interesse high: 8425383.exe . Abaixo
+processando 1621-Distinct_Numbers-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1061805.exe . Max = 14.681975. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.003217917656702916
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9448662968316119, pvalue=0.0003867302272173429)
+		Não podemos afirmar que segue uma distribuição normal
+1621-Distinct_Numbers-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9970459164309085
+Coeficiente Spearman: 0.9542533522411445
+	interesse low: 1094941.exe . Abaixo
+	interesse low: 5414757.exe . Abaixo
+	interesse low: 5734036.exe . Acima
+	interesse low: 6828397.exe . Abaixo
+	interesse medium: 1061805.exe . Abaixo
+
+slopes:
+0.01082	0.00969	0.01043	0.00098	0.01037	0.00199	0.00399	0.00787	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+19.46691	20.09811	19.49979	79.77324	19.49260	50.23273	29.85939	21.83879	
+consumo medio:
+0.20958	0.19497	0.20255	0.07815	0.20142	0.10015	0.11910	0.17207	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99361	0.99618	0.99420	0.99789	0.99583	0.99740	0.99852	0.99705	
+0.93798	0.95608	0.91678	0.99047	0.91002	0.98027	0.97527	0.95425	
+0.00684	0.00412	0.00583	0.00137	0.00510	0.00176	0.00156	0.00322	

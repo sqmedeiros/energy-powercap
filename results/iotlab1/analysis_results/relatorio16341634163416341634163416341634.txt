@@ -1,0 +1,122 @@
+processando 1634-Minimizing_Coins-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1091584.exe . Max = 10.171568000000008. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.1412899014480146
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9259344425798357, pvalue=2.9476651424401028e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9844089505049306
+Coeficiente Spearman: 0.941024687332278
+	interesse high: 2970400.exe . Acima
+	interesse high: 3375350.exe . Acima
+	interesse high: 6113121.exe . Acima
+processando 1634-Minimizing_Coins-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.08604389290515868
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9604215585529805, pvalue=0.004309814401758563)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9937408672588304
+Coeficiente Spearman: 0.9558079180181128
+	interesse low: 2004438.exe . Abaixo
+	interesse high: 6866729.exe . Acima
+processando 1634-Minimizing_Coins-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.1384033232719165
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9208423172266658, pvalue=1.560424185506317e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9846886713883019
+Coeficiente Spearman: 0.939404486426899
+	interesse high: 2970400.exe . Acima
+	interesse high: 3375350.exe . Acima
+	interesse high: 6113121.exe . Acima
+processando 1634-Minimizing_Coins-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.014223578493285385
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8882865720273054, pvalue=4.1393014738233474e-07)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9986891442970429
+Coeficiente Spearman: 0.9918569418488339
+	interesse low: 1727828.exe . Acima
+	interesse low: 526197.exe  . Abaixo
+	interesse low: 6114886.exe . Abaixo
+	interesse high: 3385679.exe . Acima
+processando 1634-Minimizing_Coins-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1091584.exe . Max = 28.540224999999992. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.14104546765546827
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9187800978407009, pvalue=1.2133173646614575e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9839950802068066
+Coeficiente Spearman: 0.9433413144279418
+	interesse high: 2970400.exe . Acima
+	interesse high: 3375350.exe . Acima
+	interesse high: 6113121.exe . Acima
+processando 1634-Minimizing_Coins-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+
+
+
+Difference between times seem too large in 1091584.exe . Max = 40.826888999999994. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0077084580763378706
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5642283270350157, pvalue=9.45518088320985e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1634-Minimizing_Coins-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9997260592292148
+Coeficiente Spearman: 0.995033958296401
+	interesse low: 6952877.exe . Abaixo
+	interesse low: 911603.exe  . Abaixo
+	interesse medium: 7114591.exe . Abaixo
+	interesse medium: 993680.exe  . Abaixo
+	interesse high: 6114886.exe . Abaixo
+	interesse high: 7356693.exe . Abaixo
+	interesse high: 8247616.exe . Abaixo
+processando 1634-Minimizing_Coins-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.002032293624757166
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9925424566894333, pvalue=0.8589939872025155)
+		Segue uma distribuição normal com confiança de 95%
+1634-Minimizing_Coins-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999864790858088
+Coeficiente Spearman: 0.99974796385053
+	interesse low: 3370629.exe . Abaixo
+	interesse low: 3375350.exe . Acima
+	interesse low: 4549023.exe . Acima
+	interesse low: 7356693.exe . Abaixo
+	interesse high: 5955123.exe . Abaixo
+processando 1634-Minimizing_Coins-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.008617811356099033
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9895594205713983, pvalue=0.6290679270371498)
+		Segue uma distribuição normal com confiança de 95%
+1634-Minimizing_Coins-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.999924515494597
+Coeficiente Spearman: 0.9986107915284103
+	interesse low: 3370629.exe . Abaixo
+	interesse low: 3881005.exe . Abaixo
+	interesse low: 6062852.exe . Abaixo
+
+slopes:
+0.01007	0.00962	0.00993	0.00096	0.00982	0.00196	0.00397	0.00793	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+172.34460	174.45179	172.46842	694.74516	172.44640	434.06078	254.61627	187.03599	
+consumo medio:
+1.70122	1.65704	1.67820	0.66270	1.65768	0.85218	1.01031	1.48165	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.98441	0.99374	0.98469	0.99869	0.98400	0.99973	0.99999	0.99992	
+0.94102	0.95581	0.93940	0.99186	0.94334	0.99503	0.99975	0.99861	
+0.14129	0.08604	0.13840	0.01422	0.14105	0.00771	0.00203	0.00862	

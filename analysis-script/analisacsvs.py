@@ -222,6 +222,7 @@ def checknegative(pkg, t):
     #verifica se tem algum valor negativo
     if min(pkg.min(), t.min()) <= 0:
         print('Valor negativo detectado. Abortando!')
+        print(min(pkg.min(), t.min()))
         exit()
 
 def removeBaseline(mediaconsumo, mediatempo):
@@ -255,8 +256,8 @@ def calculamedias(df, ncolunas, nlinhas, nexec, flags, file):
         #cores = np.array(df.iloc[j:j+nexec,3]).astype(float)
         
         gpu = np.array(df.iloc[j:j+nexec,4]).astype(float)
-        if (gpu.sum() > 0):
-            print('Tem medida de GPU! Não esta sendo considerada.')
+        #if (gpu.sum() > 0):
+        #    print('Tem medida de GPU! Não esta sendo considerada.')
         
         ram = np.array(df.iloc[j:j+nexec,5]).astype(float)
         
@@ -275,7 +276,6 @@ def calculamedias(df, ncolunas, nlinhas, nexec, flags, file):
                 
         pkg, t, tsomausersys = removeextremos(pkg,t,tsomausersys,nexec)
 
-        
         checknegative(pkg, t)        
         
         mediaconsumo = pkg.mean()

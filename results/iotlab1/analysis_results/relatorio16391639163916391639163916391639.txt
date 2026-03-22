@@ -1,0 +1,126 @@
+processando 1639-Edit_Distance-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1184356.exe . Max = 58.14364699999999. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.09103297298482375
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.829131707585776, pvalue=2.1607377087790897e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9953432174055022
+Coeficiente Spearman: 0.991812058498319
+	interesse high: 1959638.exe . Acima
+	interesse high: 1962386.exe . Acima
+	interesse high: 5145459.exe . Acima
+processando 1639-Edit_Distance-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.030593779947904312
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9686680776266602, pvalue=0.017495320647755122)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9996030902775802
+Coeficiente Spearman: 0.9973116829401705
+	interesse low: 1911734.exe . Acima
+	interesse low: 2227301.exe . Abaixo
+	interesse low: 4785952.exe . Abaixo
+	interesse low: 4885696.exe . Abaixo
+	interesse medium: 8238269.exe . Abaixo
+processando 1639-Edit_Distance-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.09361302193167291
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8245424602741267, pvalue=1.5129292766616132e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.995065677526353
+Coeficiente Spearman: 0.9912239383151275
+	interesse high: 1959638.exe . Acima
+	interesse high: 1962386.exe . Acima
+	interesse high: 5145459.exe . Acima
+processando 1639-Edit_Distance-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.026565049281487528
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7273241620260237, pvalue=2.4535184886803643e-12)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.996785355617861
+Coeficiente Spearman: 0.9948423453405243
+	interesse medium: 1959638.exe . Acima
+	interesse medium: 2549795.exe . Acima
+	interesse medium: 6768052.exe . Acima
+	interesse high: 6011315.exe . Acima
+processando 1639-Edit_Distance-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.0924333387516446
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8217755208093758, pvalue=1.2239224719705383e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9952929850544128
+Coeficiente Spearman: 0.9919350968022692
+	interesse high: 1959638.exe . Acima
+	interesse high: 1962386.exe . Acima
+	interesse high: 5145459.exe . Acima
+processando 1639-Edit_Distance-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0037757722471813285
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.802149602751377, pvalue=2.883933152301326e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1639-Edit_Distance-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9999469914859682
+Coeficiente Spearman: 0.9995289405398231
+	interesse low: 7041402.exe . Abaixo
+	interesse low: 725118.exe  . Abaixo
+	interesse low: 7822027.exe . Abaixo
+	interesse medium: 7490618.exe . Abaixo
+	interesse high: 8238269.exe . Abaixo
+processando 1639-Edit_Distance-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1184356.exe . Max = 30.17413399999998. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.001389201096713234
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9892240572663985, pvalue=0.6022786601073027)
+		Segue uma distribuição normal com confiança de 95%
+1639-Edit_Distance-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.99999466697359
+Coeficiente Spearman: 0.9998469765195698
+	interesse low: 1637061.exe . Acima
+	interesse low: 4601273.exe . Acima
+	interesse low: 7152042.exe . Abaixo
+	interesse high: 2215057.exe . Acima
+	interesse high: 4821646.exe . Acima
+	interesse high: 630455.exe  . Acima
+	interesse high: 7041402.exe . Abaixo
+processando 1639-Edit_Distance-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1184356.exe . Max = 22.99211200000002. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.008262869782653746
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.984197549216704, pvalue=0.27757792242452184)
+		Segue uma distribuição normal com confiança de 95%
+1639-Edit_Distance-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9999511672689864
+Coeficiente Spearman: 0.9994899399748535
+	interesse low: 1184356.exe . Abaixo
+	interesse low: 3812433.exe . Abaixo
+	interesse low: 7124868.exe . Abaixo
+	interesse low: 7490618.exe . Abaixo
+
+slopes:
+0.01018	0.00975	0.01015	0.00098	0.01013	0.00197	0.00397	0.00793	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+158.03596	161.04351	158.11516	692.90238	158.09609	406.13625	237.91019	173.53613	
+consumo medio:
+1.57907	1.55791	1.57485	0.67052	1.57029	0.79940	0.94468	1.37386	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99534	0.99960	0.99507	0.99679	0.99529	0.99995	0.99999	0.99995	
+0.99181	0.99731	0.99122	0.99484	0.99194	0.99953	0.99985	0.99949	
+0.09103	0.03059	0.09361	0.02657	0.09243	0.00378	0.00139	0.00826	

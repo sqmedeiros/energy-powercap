@@ -1,0 +1,123 @@
+processando 1195-Flight_Discount-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1097798.exe . Max = 13.342003999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.055982781653631325
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9374289889387832, pvalue=0.00013482508871732286)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9685663702233188
+Coeficiente Spearman: 0.993147150532728
+	interesse high: 6848378.exe . Abaixo
+	interesse high: 7576958.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1097798.exe . Max = 38.796381000000004. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.02906194496845918
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8518136707917919, pvalue=1.38451085870373e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9910423823148878
+Coeficiente Spearman: 0.9963394593879423
+	interesse low: 5365488.exe . Abaixo
+	interesse high: 6848378.exe . Abaixo
+	interesse high: 7576958.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1097798.exe . Max = 10.007207999999999. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.055593658224156
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9314468204378249, pvalue=6.018019497513825e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.968984338760623
+Coeficiente Spearman: 0.9915029975143491
+	interesse high: 6848378.exe . Abaixo
+	interesse high: 7576958.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.0034752217899710284
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6395412771739997, pvalue=2.5885498309016355e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9990539975089202
+Coeficiente Spearman: 0.9985296515902702
+	interesse low: 7576958.exe . Abaixo
+	interesse low: 7577841.exe . Abaixo
+	interesse low: 8114292.exe . Abaixo
+	interesse medium: 6848378.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.055249848384679945
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9246080599520781, pvalue=2.492413168981467e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.968408979816049
+Coeficiente Spearman: 0.9938672398240075
+	interesse high: 6848378.exe . Abaixo
+	interesse high: 7576958.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.004633508525610829
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.7024487572413373, pvalue=6.152219688686911e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1195-Flight_Discount-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9996089726520393
+Coeficiente Spearman: 0.999534938691165
+	interesse low: 5445613.exe . Acima
+	interesse low: 6811790.exe . Abaixo
+	interesse low: 6880278.exe . Abaixo
+	interesse low: 8064828.exe . Acima
+	interesse medium: 8114292.exe . Abaixo
+	interesse high: 7576958.exe . Abaixo
+	interesse high: 7577841.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.0018083026136519516
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9843506421034016, pvalue=0.28486278294135803)
+		Segue uma distribuição normal com confiança de 95%
+1195-Flight_Discount-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999027974887917
+Coeficiente Spearman: 0.9994598586351257
+	interesse low: 2749622.exe . Acima
+	interesse high: 7027957.exe . Abaixo
+processando 1195-Flight_Discount-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1097798.exe . Max = 37.509858. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.006659611104387315
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9771286700968378, pvalue=0.07923638863503085)
+		Segue uma distribuição normal com confiança de 95%
+1195-Flight_Discount-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9994212466957361
+Coeficiente Spearman: 0.9984547412284908
+	interesse low: 2139162.exe . Abaixo
+	interesse medium: 7576958.exe . Abaixo
+
+slopes:
+0.00986	0.00950	0.00990	0.00096	0.00973	0.00197	0.00396	0.00790	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+83.39482	84.78953	83.43701	297.38735	83.33568	279.76100	120.92545	90.00158	
+consumo medio:
+0.82263	0.80667	0.82686	0.28583	0.81166	0.55083	0.47950	0.71079	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.96857	0.99104	0.96898	0.99905	0.96841	0.99961	0.99990	0.99942	
+0.99315	0.99634	0.99150	0.99853	0.99387	0.99953	0.99946	0.99845	
+0.05598	0.02906	0.05559	0.00348	0.05525	0.00463	0.00181	0.00666	

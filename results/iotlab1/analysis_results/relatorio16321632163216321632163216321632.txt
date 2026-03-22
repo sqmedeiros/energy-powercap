@@ -1,0 +1,131 @@
+processando 1632-Movie_Festival_II-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1141757.exe . Max = 14.845799. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.054805456197511065
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.811827860139502, pvalue=5.810522093828112e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.992141781167945
+Coeficiente Spearman: 0.9882709501962829
+	interesse high: 1194834.exe . Abaixo
+	interesse high: 4327744.exe . Acima
+	interesse high: 7856160.exe . Abaixo
+processando 1632-Movie_Festival_II-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.018533798033580733
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8336164606855224, pvalue=3.079351518191973e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9990811365653876
+Coeficiente Spearman: 0.9881772657366491
+	interesse high: 1194834.exe . Abaixo
+	interesse high: 4327744.exe . Acima
+processando 1632-Movie_Festival_II-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1141757.exe . Max = 37.038427999999996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.053386439756607645
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8320626409217734, pvalue=2.7217973683189704e-09)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9925494485968878
+Coeficiente Spearman: 0.9818101137455093
+	interesse high: 1194834.exe . Abaixo
+	interesse high: 4327744.exe . Acima
+	interesse high: 7856160.exe . Abaixo
+processando 1632-Movie_Festival_II-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.003012392568069459
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9214036170949849, pvalue=1.672006045181262e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9998459936921416
+Coeficiente Spearman: 0.9906572261193066
+	interesse low: 4327744.exe . Acima
+	interesse low: 5494547.exe . Abaixo
+	interesse low: 5550352.exe . Abaixo
+	interesse low: 5755609.exe . Abaixo
+	interesse low: 576026.exe  . Abaixo
+	interesse low: 5979286.exe . Abaixo
+	interesse low: 7103208.exe . Abaixo
+	interesse low: 7162730.exe . Abaixo
+processando 1632-Movie_Festival_II-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.054462975411308345
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8085627358164071, pvalue=4.575674643108008e-10)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9920237629936938
+Coeficiente Spearman: 0.9870826652011123
+	interesse high: 1194834.exe . Abaixo
+	interesse high: 4327744.exe . Acima
+	interesse high: 7856160.exe . Abaixo
+processando 1632-Movie_Festival_II-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+
+
+
+Difference between times seem too large in 1141757.exe . Max = 30.962024999999997. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0019262932139281334
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9284489654535443, pvalue=4.068312113784463e-05)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9999504525382447
+Coeficiente Spearman: 0.9953823319683203
+	interesse low: 3513191.exe . Acima
+	interesse low: 8028891.exe . Abaixo
+	interesse low: 849073.exe  . Abaixo
+	interesse low: 8519892.exe . Abaixo
+	interesse low: 856959.exe  . Abaixo
+processando 1632-Movie_Festival_II-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.002007153783429615
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9621655668878114, pvalue=0.005755152549639984)
+		Não podemos afirmar que segue uma distribuição normal
+1632-Movie_Festival_II-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999633900161826
+Coeficiente Spearman: 0.9976910661523342
+	interesse low: 5978424.exe . Acima
+	interesse high: 1369810.exe . Abaixo
+	interesse high: 1394267.exe . Abaixo
+	interesse high: 5979571.exe . Acima
+	interesse high: 7162730.exe . Abaixo
+processando 1632-Movie_Festival_II-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1141757.exe . Max = 32.261197. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.004962894597796562
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9749339752607042, pvalue=0.05331858422640025)
+		Segue uma distribuição normal com confiança de 95%
+1632-Movie_Festival_II-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9999112680295105
+Coeficiente Spearman: 0.9935663650822725
+	interesse low: 1194834.exe . Abaixo
+	interesse low: 5400133.exe . Abaixo
+	interesse medium: 1394267.exe . Abaixo
+
+slopes:
+0.01071	0.00974	0.01053	0.00096	0.01040	0.00196	0.00396	0.00794	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+81.60127	84.06686	81.60076	342.59895	81.59165	212.45298	125.62503	91.10443	
+consumo medio:
+0.86169	0.81376	0.84602	0.32841	0.83543	0.41710	0.49774	0.72191	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99214	0.99908	0.99255	0.99985	0.99202	0.99995	0.99996	0.99991	
+0.98827	0.98818	0.98181	0.99066	0.98708	0.99538	0.99769	0.99357	
+0.05481	0.01853	0.05339	0.00301	0.05446	0.00193	0.00201	0.00496	

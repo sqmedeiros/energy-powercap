@@ -1,0 +1,52 @@
+processando 1640-Sum_of_Two_Values-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1149166.exe . Max = 19.094484. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.015613855635749737
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6484663590069845, pvalue=3.9566209210303694e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1640-Sum_of_Two_Values-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9849257434123265
+Coeficiente Spearman: 0.9932215358728648
+	interesse low: 7189608.exe . Acima
+	interesse high: 2230190.exe . Abaixo
+	interesse high: 5674331.exe . Abaixo
+	interesse high: 7989414.exe . Abaixo
+processando 1640-Sum_of_Two_Values-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1149166.exe . Max = 13.991996. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.009292727264075519
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5779497737389856, pvalue=1.672452533953369e-15)
+		Não podemos afirmar que segue uma distribuição normal
+1640-Sum_of_Two_Values-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9947025509945052
+Coeficiente Spearman: 0.9919843265868357
+	interesse high: 2230190.exe . Abaixo
+	interesse high: 5674331.exe . Abaixo
+processando 1640-Sum_of_Two_Values-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1149166.exe . Max = 15.183444999999995. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.014508238056915722
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6873135934604413, pvalue=2.757344800984027e-13)
+		Não podemos afirmar que segue uma distribuição normal
+1640-Sum_of_Two_Values-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9870232305278857
+Coeficiente Spearman: 0.991195550816094
+	interesse high: 2230190.exe . Abaixo
+	interesse high: 5674331.exe . Abaixo
+	interesse high: 7989414.exe . Abaixo
+processando 1640-Sum_of_Two_Values-c++-mult-1W-iotlab1-09-03-2026-08-44.csv

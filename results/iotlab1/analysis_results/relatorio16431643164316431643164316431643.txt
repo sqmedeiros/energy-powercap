@@ -1,0 +1,103 @@
+processando 1643-Maximum_Subarray_Sum-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Gordura (desvio do erro) da reta calculada:0.013098479585789979
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6500341509675371, pvalue=4.266157314584026e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9877761037529155
+Coeficiente Spearman: 0.9406004099630167
+	interesse high: 3144096.exe . Abaixo
+	interesse high: 3868191.exe . Abaixo
+processando 1643-Maximum_Subarray_Sum-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.008572231818226417
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5557228248789756, pvalue=6.683118707017197e-16)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9950504006765811
+Coeficiente Spearman: 0.9311056791014993
+	interesse low: 3144096.exe . Abaixo
+	interesse low: 4137155.exe . Abaixo
+	interesse high: 3868191.exe . Abaixo
+processando 1643-Maximum_Subarray_Sum-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1099920.exe . Max = 13.123439. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.013014519433508004
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6581460308677736, pvalue=6.323841275052977e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9882162569320792
+Coeficiente Spearman: 0.9383465236920384
+	interesse high: 3144096.exe . Abaixo
+	interesse high: 3868191.exe . Abaixo
+processando 1643-Maximum_Subarray_Sum-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.0018434963463298184
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.950359908143627, pvalue=0.0008761882594486004)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9984122594185847
+Coeficiente Spearman: 0.9693020562002
+	interesse low: 1399024.exe . Acima
+	interesse low: 2974603.exe . Abaixo
+	interesse low: 3500180.exe . Acima
+processando 1643-Maximum_Subarray_Sum-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1099920.exe . Max = 39.821796000000006. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.0129090180015887
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6356783616809447, pvalue=2.159297765367583e-14)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.988095441271817
+Coeficiente Spearman: 0.9543174556703196
+	interesse high: 3144096.exe . Abaixo
+	interesse high: 3868191.exe . Abaixo
+processando 1643-Maximum_Subarray_Sum-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0019784057605748027
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9757147809829146, pvalue=0.06137986350494382)
+		Segue uma distribuição normal com confiança de 95%
+1643-Maximum_Subarray_Sum-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9988752699626325
+Coeficiente Spearman: 0.9828838067498227
+	interesse high: 2823544.exe . Acima
+	interesse high: 7148062.exe . Acima
+processando 1643-Maximum_Subarray_Sum-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Gordura (desvio do erro) da reta calculada:0.0017763696562643346
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9838836442289268, pvalue=0.2631427451751762)
+		Segue uma distribuição normal com confiança de 95%
+1643-Maximum_Subarray_Sum-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9992769128720561
+Coeficiente Spearman: 0.9538419641810647
+	interesse low: 3868191.exe . Abaixo
+	interesse high: 4457827.exe . Acima
+processando 1643-Maximum_Subarray_Sum-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.003266482055665191
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8685206634482936, pvalue=6.113022080126603e-08)
+		Não podemos afirmar que segue uma distribuição normal
+1643-Maximum_Subarray_Sum-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9991217497381141
+Coeficiente Spearman: 0.939880147137141
+	interesse low: 4264435.exe . Abaixo
+	interesse medium: 3868191.exe . Abaixo
+
+slopes:
+0.01012	0.00953	0.01009	0.00097	0.01000	0.00198	0.00398	0.00786	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+17.29399	17.71079	17.29558	73.01769	17.30618	45.76563	26.17749	19.12425	
+consumo medio:
+0.17755	0.17103	0.17736	0.07086	0.17576	0.09070	0.10424	0.15121	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.98778	0.99505	0.98822	0.99841	0.98810	0.99888	0.99928	0.99912	
+0.94060	0.93111	0.93835	0.96930	0.95432	0.98288	0.95384	0.93988	
+0.01310	0.00857	0.01301	0.00184	0.01291	0.00198	0.00178	0.00327	

@@ -1,0 +1,134 @@
+processando 2166-Prefix_Sum_Queries-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Gordura (desvio do erro) da reta calculada:0.08439172063818437
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8186405087444828, pvalue=9.650555299022452e-10)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9926600905726335
+Coeficiente Spearman: 0.9963276107446747
+	interesse low: 1578979.exe . Acima
+	interesse low: 1734547.exe . Acima
+	interesse low: 2002873.exe . Acima
+	interesse high: 7458115.exe . Abaixo
+processando 2166-Prefix_Sum_Queries-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+
+
+
+Difference between times seem too large in 1536382.exe . Max = 64.26818000000003. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.03969435302208942
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.6794624249254366, pvalue=1.8379868021933173e-13)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9982854191962909
+Coeficiente Spearman: 0.998988889829455
+	interesse low: 4238522.exe . Abaixo
+	interesse low: 6977008.exe . Abaixo
+	interesse low: 8699117.exe . Abaixo
+	interesse high: 7458115.exe . Abaixo
+processando 2166-Prefix_Sum_Queries-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+
+
+
+Difference between times seem too large in 1536382.exe . Max = 64.492357. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.07802717760897601
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8555604650879143, pvalue=1.9137051829323243e-08)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9938952033303206
+Coeficiente Spearman: 0.9967776584497395
+	interesse high: 7458115.exe . Abaixo
+processando 2166-Prefix_Sum_Queries-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+
+
+
+Difference between times seem too large in 1536382.exe . Max = 12.532254999999964. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.03571652584622781
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.5872232228203842, pvalue=2.4778932751970037e-15)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9932756344287234
+Coeficiente Spearman: 0.9972516922613435
+	interesse medium: 7104787.exe . Acima
+	interesse high: 7100074.exe . Acima
+processando 2166-Prefix_Sum_Queries-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Gordura (desvio do erro) da reta calculada:0.07812854310179197
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.862565302899466, pvalue=3.555261045088555e-08)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9937140779438133
+Coeficiente Spearman: 0.9964146092327656
+	interesse low: 1578979.exe . Acima
+	interesse high: 7458115.exe . Abaixo
+processando 2166-Prefix_Sum_Queries-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.0038024717929403726
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.8307174965577051, pvalue=2.447409441088396e-09)
+		Não podemos afirmar que segue uma distribuição normal
+2166-Prefix_Sum_Queries-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.999939625746378
+Coeficiente Spearman: 0.9996789561352643
+	interesse low: 6623394.exe . Abaixo
+	interesse low: 6901034.exe . Abaixo
+	interesse low: 6977008.exe . Abaixo
+	interesse low: 7147923.exe . Acima
+	interesse low: 7458115.exe . Abaixo
+	interesse low: 8073980.exe . Abaixo
+	interesse low: 8165818.exe . Abaixo
+	interesse medium: 8699117.exe . Abaixo
+processando 2166-Prefix_Sum_Queries-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1536382.exe . Max = 57.97117700000001. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.001459138065247098
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9928767797179355, pvalue=0.8805136982355368)
+		Segue uma distribuição normal com confiança de 95%
+2166-Prefix_Sum_Queries-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999939969275036
+Coeficiente Spearman: 0.9999099904769908
+	interesse low: 3551847.exe . Acima
+	interesse low: 3806326.exe . Acima
+	interesse low: 4176362.exe . Abaixo
+	interesse low: 8414692.exe . Acima
+processando 2166-Prefix_Sum_Queries-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+
+
+
+Difference between times seem too large in 1536382.exe . Max = 14.707568000000009. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.004681714365661251
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9919554451901814, pvalue=0.8179884280061162)
+		Segue uma distribuição normal com confiança de 95%
+2166-Prefix_Sum_Queries-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9999811103290501
+Coeficiente Spearman: 0.9995169417703743
+	interesse low: 2653834.exe . Abaixo
+	interesse low: 4371445.exe . Acima
+	interesse low: 7863059.exe . Abaixo
+
+slopes:
+0.01013	0.00984	0.01023	0.00098	0.01010	0.00197	0.00397	0.00795	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+202.17862	204.95747	202.22079	886.88807	202.12357	515.54503	304.88733	220.48918	
+consumo medio:
+2.04309	2.01652	2.06467	0.86285	2.03628	1.01388	1.21021	1.75255	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99266	0.99829	0.99390	0.99328	0.99371	0.99994	0.99999	0.99998	
+0.99633	0.99899	0.99678	0.99725	0.99641	0.99968	0.99991	0.99952	
+0.08439	0.03969	0.07803	0.03572	0.07813	0.00380	0.00146	0.00468	

@@ -1,0 +1,118 @@
+processando 1091-Concert_Tickets-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+
+
+
+Difference between times seem too large in 1016334.exe . Max = 12.983149999999995. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.06460560704428413
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9534875112833738, pvalue=0.001418314416962331)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-mult-0W-iotlab1-20-02-2026-16-23.csv
+Coeficiente R2: 0.9933653401768794
+Coeficiente Spearman: 0.9867530801958608
+	interesse low: 1963979.exe . Acima
+	interesse medium: 1400532.exe . Acima
+	interesse high: 3588461.exe . Abaixo
+processando 1091-Concert_Tickets-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Gordura (desvio do erro) da reta calculada:0.05105507072180789
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9775755206948797, pvalue=0.0858979435185458)
+		Segue uma distribuição normal com confiança de 95%
+1091-Concert_Tickets-c++-mult-10W-iotlab1-21-02-2026-17-11.csv
+Coeficiente R2: 0.9959968022863466
+Coeficiente Spearman: 0.9866933104101174
+	interesse high: 3588461.exe . Abaixo
+processando 1091-Concert_Tickets-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Gordura (desvio do erro) da reta calculada:0.06231317190725532
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9388480053097341, pvalue=0.00016410776502311471)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-mult-15W-iotlab1-21-02-2026-08-55.csv
+Coeficiente R2: 0.9938943555203862
+Coeficiente Spearman: 0.9922192724050632
+	interesse low: 1963979.exe . Acima
+	interesse low: 8459541.exe . Acima
+	interesse medium: 1400532.exe . Acima
+	interesse medium: 4547977.exe . Acima
+	interesse high: 3588461.exe . Abaixo
+processando 1091-Concert_Tickets-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Gordura (desvio do erro) da reta calculada:0.010937300419457395
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9677557079009679, pvalue=0.01492248026994007)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-mult-1W-iotlab1-09-03-2026-08-44.csv
+Coeficiente R2: 0.9989055940260112
+Coeficiente Spearman: 0.9958113564010023
+	interesse low: 340754.exe  . Acima
+processando 1091-Concert_Tickets-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+
+
+
+Difference between times seem too large in 1016334.exe . Max = 10.719888999999995. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.06299555277462097
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9502039402686191, pvalue=0.0008556598026918597)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-mult-25W-iotlab1-21-02-2026-00-38.csv
+Coeficiente R2: 0.9936193569398636
+Coeficiente Spearman: 0.9885022994792461
+	interesse low: 8459541.exe . Acima
+	interesse high: 1400532.exe . Acima
+	interesse high: 1963979.exe . Acima
+	interesse high: 3588461.exe . Abaixo
+processando 1091-Concert_Tickets-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Gordura (desvio do erro) da reta calculada:0.006201787339647152
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9020939419029512, pvalue=1.7759435612157814e-06)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-mult-2W-iotlab1-22-02-2026-01-32.csv
+Coeficiente R2: 0.9997876500349291
+Coeficiente Spearman: 0.9958833918894271
+	interesse low: 700618.exe  . Abaixo
+	interesse low: 7954751.exe . Abaixo
+	interesse low: 8457226.exe . Abaixo
+	interesse low: 8492597.exe . Abaixo
+processando 1091-Concert_Tickets-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+
+
+
+Difference between times seem too large in 1016334.exe . Max = 47.54671099999999. Number of occurences: 1
+
+
+
+Gordura (desvio do erro) da reta calculada:0.001597470739818331
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9868670797572016, pvalue=0.4287499111203446)
+		Segue uma distribuição normal com confiança de 95%
+1091-Concert_Tickets-c++-mult-4W-iotlab1-10-03-2026-07-44.csv
+Coeficiente R2: 0.9999922504126172
+Coeficiente Spearman: 0.9991928154033827
+	interesse low: 1199099.exe . Abaixo
+	interesse low: 3007872.exe . Abaixo
+	interesse low: 6489020.exe . Abaixo
+	interesse low: 8634018.exe . Acima
+processando 1091-Concert_Tickets-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Gordura (desvio do erro) da reta calculada:0.008317549831256666
+Confiança de que o erro segue uma distribuição normal: ShapiroResult(statistic=0.9556087729539242, pvalue=0.0019798317342208213)
+		Não podemos afirmar que segue uma distribuição normal
+1091-Concert_Tickets-c++-mult-8W-iotlab1-10-03-2026-18-06.csv
+Coeficiente R2: 0.9999458772101338
+Coeficiente Spearman: 0.9937228113595006
+	interesse low: 1135440.exe . Abaixo
+	interesse low: 6387452.exe . Abaixo
+	interesse low: 6489020.exe . Abaixo
+	interesse low: 8324953.exe . Abaixo
+
+slopes:
+0.00912	0.00911	0.00919	0.00095	0.00906	0.00196	0.00396	0.00792	
+linear coefficients:
+0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	0.00000	
+tempos medios das solucoes:
+184.88855	185.86076	184.84299	713.12106	184.87457	446.41308	264.59785	194.54415	
+consumo medio:
+1.68834	1.68979	1.69961	0.67520	1.67659	0.87454	1.04802	1.53876	
+Coeficientes R2:
+Coeficientes Spearman:
+Gordura (desvio do erro) da reta calculada:
+0.99337	0.99600	0.99389	0.99891	0.99362	0.99979	0.99999	0.99995	
+0.98675	0.98669	0.99222	0.99581	0.98850	0.99588	0.99919	0.99372	
+0.06461	0.05106	0.06231	0.01094	0.06300	0.00620	0.00160	0.00832	
