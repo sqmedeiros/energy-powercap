@@ -106,7 +106,8 @@ def generateMakefileText(mydir, make_config, dataFormatada):
 
   texto = f"export PROBLEM = {mydir}-{lang}-{cores}-{power_limit}W-{machine}-{dataFormatada}\n"
 
-  texto  = texto + "export CPPFLAGS = -DONLINE_JUDGE -std=c++17 -O2" + "\n"
+  if lang == "C++":
+    texto  = texto + "export CPPFLAGS = -DONLINE_JUDGE -std=c++17 -O2" + "\n"
   
   texto = texto + "export OUTPUT = 2>&1 > /dev/null\n"
   
@@ -179,7 +180,9 @@ def generateexperimentdir(mydir, make_config):
 def copyMakefilesubdir(mydir, make_config):
   lang = make_config.lang
   if lang == 'c++':
-    cmd = f"cp  {makefileDir}/Makefile-perf  {mydir}/{expDir}/Makefile"
+    cmd = f"cp  {makefileDir}/Makefile-perf-C++  {mydir}/{expDir}/Makefile"
+  elif lang == 'java':
+    cmd = f"cp  {makefileDir}/Makefile-perf-Java  {mydir}/{expDir}/Makefile"
   else:
     print(f'Unrecognized experiment type. Aborting.\nmake_config = {make_config}.')
     sys.exit()
@@ -189,7 +192,7 @@ def copyMakefilesubdir(mydir, make_config):
 
 
 def config_parser(parser):
-  parser.add_argument('lang', choices=['c++'])
+  parser.add_argument('lang', choices=['c++', 'java'])
   parser.add_argument('machine', choices=['elite','iotlab1'])
   parser.add_argument('cores', choices=['sing', 'mult'])
   parser.add_argument('power_limit', choices=['0', '1', '2', '4', '8', '10', '15', '25'])
