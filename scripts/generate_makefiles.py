@@ -183,6 +183,8 @@ def copyMakefilesubdir(mydir, make_config):
     cmd = f"cp  {makefileDir}/Makefile-perf-C++  {mydir}/{expDir}/Makefile"
   elif lang == 'java':
     cmd = f"cp  {makefileDir}/Makefile-perf-Java  {mydir}/{expDir}/Makefile"
+  elif lang == 'python':
+    cmd = f"cp  {makefileDir}/Makefile-perf-Python  {mydir}/{expDir}/Makefile"
   else:
     print(f'Unrecognized experiment type. Aborting.\nmake_config = {make_config}.')
     sys.exit()
@@ -192,7 +194,7 @@ def copyMakefilesubdir(mydir, make_config):
 
 
 def config_parser(parser):
-  parser.add_argument('lang', choices=['c++', 'java'])
+  parser.add_argument('lang', choices=['c++', 'java', 'python'])
   parser.add_argument('machine', choices=['elite','iotlab1'])
   parser.add_argument('cores', choices=['sing', 'mult'])
   parser.add_argument('power_limit', choices=['0', '1', '2', '4', '8', '10', '15', '25'])

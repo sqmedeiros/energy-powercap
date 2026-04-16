@@ -1,0 +1,7 @@
+compile: $(patsubst %.py, %, $(wildcard *.py))
+
+%: %.py Makefile
+	python3 ../../run-experiment-script/perf-rapl.py "python3 $< < "  "$(OUTPUT)" ../$(PROBLEM) $@	"$(TEST)"
+		
+clean:
+
