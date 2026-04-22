@@ -47,14 +47,16 @@ faztudo_pre = (
 
 faztudo_power = (
 "sudo modprobe msr\n"
-"sudo ../RAPL/main "
+"cd ../RAPL\n"
+"make\n"
+"sudo ./main "
 )
 
 faztudo_pos = (
+"cd -\n"
 "ulimit -s unlimited\n"
 "make clean\n"
 "make\n"
-"speaker-test -t sine -f 1000 -l 1 -p20000\n"
 )
 
 
