@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
  37, 38, 39, 40, 41, 42, 43,
 DON'T USE Math.pow or Double
  */
-public class entry_2484268 {
+public class entry_1654410 {
 
     public static void main(String[] args) throws IOException {
         InputStreamReader inputStreamReader = new InputStreamReader(System.in);
