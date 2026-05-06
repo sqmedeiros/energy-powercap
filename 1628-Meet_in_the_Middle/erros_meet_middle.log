@@ -1,0 +1,10 @@
+/home/karolinasa/GIT/atualizardataset/1628-Meet_in_the_Middle/python/15729254.py:4: SyntaxWarning: invalid decimal literal
+  while i:i-=1;i-n//2or(z:=Counter(d),d:=[0]);d+=[s for k in d if(s:=k+t[i])<=x]
+Traceback (most recent call last):
+  File "/home/karolinasa/GIT/atualizardataset/1628-Meet_in_the_Middle/python/16010326.py", line 69, in <module>
+    solve()
+  File "/home/karolinasa/GIT/atualizardataset/1628-Meet_in_the_Middle/python/16010326.py", line 37, in solve
+    empieza = int(read[j])
+                  ~~~~^^^
+IndexError: list index out of range
+make: *** [Makefile:4: 16010326] Error 1
