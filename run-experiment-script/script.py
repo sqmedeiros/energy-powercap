@@ -164,7 +164,7 @@ def prepara_novo_experimento():
     gera_makefiles()
     criaToProcess()
     turnXoff()
-    make_beep(1)
+    #make_beep(1)
     apaga_arquivo(reiniciaUnicaVez)
     reinicia()
 
@@ -179,7 +179,7 @@ def continua_experimento_atual():
     os.system("./faztudo.sh")
     os.chdir(prevDir)
     write_log(f"Finished {mydir}")
-    make_beep(get_index(mydir))
+    #make_beep(get_index(mydir))
     reinicia()
 
 def encerra_experimentos():
