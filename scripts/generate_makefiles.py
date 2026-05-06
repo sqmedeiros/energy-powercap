@@ -197,7 +197,7 @@ def copyMakefilesubdir(mydir, make_config):
 
 def config_parser(parser):
   parser.add_argument('lang', choices=['c++', 'java', 'python'])
-  parser.add_argument('machine', choices=['elite','iotlab1'])
+  parser.add_argument('machine')
   parser.add_argument('cores', choices=['sing', 'mult'])
   parser.add_argument('power_limit', choices=['0', '1', '2', '4', '8', '10', '15', '25'])
 
