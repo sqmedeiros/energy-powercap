@@ -157,6 +157,9 @@ def gera_makefiles():
 
 
 def prepara_novo_experimento():
+    if not os.path.isdir(logDir):
+        os.mkdir(logDir)
+
     write_log('Novo experimento')
     gera_makefiles()
     criaToProcess()
