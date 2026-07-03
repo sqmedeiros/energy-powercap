@@ -41,6 +41,8 @@ dirs = [
   "2185-Prime_Multiples"
 ]
 
+
+
 faztudo_pre = (
 "#!/bin/bash\n"
 )
@@ -85,7 +87,12 @@ def create_dir (mydir):
 
 def write_log (msg):
   print(msg)
-  with open(logDir + logFile, "a+") as f:
+
+  novoLogDir = logDir
+  if not os.path.exists(logDir):
+  	novoLogDir = "../" + logDir
+  
+  with open(novoLogDir + logFile, "a") as f:
     f.write(f"{datetime.now()}: {msg}\n")
 
 def getEntries():
@@ -139,11 +146,12 @@ def generateConfigText(mydir, make_config):
 def createFazTudo(mydir, make_config):
   texto = faztudo_pre
   
-  texto += cpu_on
-  #if make_config.cpu == "sing":
-  #  texto += cpu_off
-  #else:
-  #  texto += cpu_on
+  # texto += cpu_on
+  if make_config.cores == "sing":
+    texto += cpu_off
+    write_log(" Detectado o sing ") 
+  else:
+    texto += cpu_on
   
   texto += faztudo_power + " " + make_config.power_limit + "\n"
   
@@ -154,6 +162,8 @@ def createFazTudo(mydir, make_config):
     f.truncate() # set the file size to the current size
   
   os.chmod("faztudo.sh", 0o775) 
+  
+  write_log("Gravado faz_tudo") 
 
 
 def createMakefile(mydir, make_config, dataFormatada):
